@@ -1,0 +1,209 @@
+<html> <head>
+  <title>Processing.js Example</title>
+  <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="processing.js"></script>
+  <script type="text/javascript" src="init.js"></script>
+  <script type="text/javascript" src="Table_01.js"></script>
+  <script type="text/javascript" src="jquery.pack.js"></script>
+
+  </head>
+  <body>
+  <h1>Pag.33 - drawing objects on top of an image</h1>
+
+  <script type="application/processing">
+  PFont font;
+  import processing.opengl.*; 
+
+
+  // Setup the Processing Canvas
+  void setup(){
+  size( 1500, 800, P3D );
+  noFill();
+
+
+ }
+
+  
+
+
+  // Main draw loop
+  void draw(){
+   
+  background(253, 245, 230);
+  //Alien Path Rescue Visualization
+  font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,30); 
+   fill( 0, 121, 184 );
+  String s = "Alien Path Rescue Visualization";
+  text(s,275,10);
+  //Alien Database
+  fill(52,136,153) ;
+  font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,20);
+  String ad = "ALIEN DATABASE";
+   
+  text(ad, 75, 695);
+  fill(52,136,153) ;
+  rect(5, 675, 65, 25);
+  //Solar System
+  fill(255,211,78);
+  font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,20); 
+  String ss = "SOLAR SYSTEM";
+  text(ss, 75, 745);
+  
+  rect(5, 725, 65, 25);
+  //Probe Design
+  fill(150,45,62);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,20); 
+  String mc = "MISSION CONTROL";
+  text(mc, 75, 795);
+  rect(5, 775, 65, 25);
+  //Probe Launch
+  fill(162,235,143);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,20); 
+  String pd = "PROBE DESIGN";
+  text(pd, 1350, 695);
+  rect(1250, 675, 65, 25);
+  //Notebook
+  fill(151,156,156);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,20); 
+  String pl = "PROBE LAUNCH";
+  text(pl, 1350, 745);
+  rect(1250, 725, 65, 25);
+  //Mission Control
+  fill(52,54,66);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,20); 
+  String nb = "NOTEBOOK";
+  text(nb, 1350, 795);
+  rect(1250, 775, 65, 25);
+  ///SCORE 
+  
+    
+    fill(0,0,0);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,40); 
+  String s0 = "0";
+  text(s0, 490, 790);
+  //orbDisplay(400,550,50,10,0,0,0);
+  for(int i=0;i<50;i++){
+    float posX = 500 - 9*i;
+    float posY=  760-12*i;
+    int r;
+    int g;
+    int b;
+    orbDisplay(posX,posY,80,12,0,0,0);
+  }
+  
+  
+  ////SCORE1
+    fill(0,0,0);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,40); 
+  String s1 = "1";
+  text(s1, 570, 700);
+  //orbDisplay(470,490,30,20,0,0,0);
+  for(int i=0;i<50;i++){
+    float posX = 570 - 6*i;
+    float posY=  670-12*i;
+    orbDisplay(posX,posY,80,12,0,0,0);
+  }
+  
+  //Score 2
+    fill(0,0,0);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,40); 
+  String s2 = "2";
+  text(s2, 650, 660);
+  //orbDisplay(560,450,30,20,0,0,0);
+  for(int i=0;i<50;i++){
+    float posX = 650-3*i;
+    float posY=  630-12*i;
+    orbDisplay(posX,posY,80,12,0,0,0);
+  }
+  //Score 3
+    fill(0,0,0);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,40); 
+  String s3 = "3";
+  text(s3, width/2, 645);
+ // orbDisplay(650,430,30,20,0,0,0);
+  for(int i=0;i<50;i++){
+    float posX = width/2;
+    float posY=  620-12*i;
+    orbDisplay(posX,posY,80,12,0,0,0);
+  }
+  //Score4
+    fill(0,0,0);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,40); 
+  String s4 = "4";
+  text(s4, 850, 660);
+  //orbDisplay(740,450,30,20,0,0,0);
+  for(int i=0;i<50;i++){
+    float posX = 860+3*i;
+    float posY=  630-12*i;
+    orbDisplay(posX,posY,80,12,0,0,0);
+  }
+  //Score 5
+    fill(0,0,0);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,40); 
+  String s5 = "5";
+  text(s5, 930, 700);
+ // orbDisplay(830,500,30,20,0,0,0);
+  for(int i=0;i<50;i++){
+    float posX = 930+6*i;
+    float posY=  670-12*i;
+    orbDisplay(posX,posY,80,12,0,0,0);
+  }
+  //Score6
+    fill(0,0,0);
+   font = loadFont("FFScala-Bold.ttf"); 
+  textFont(font,40); 
+  String s6 = "6";
+  text(s6, 1010, 790);
+  //orbDisplay(900,550,30,20,0,0,0);
+  for(int i=0;i<50;i++){
+    float posX = 1000+9*i;
+    float posY=  760-12*i;
+    orbDisplay(posX,posY,80,12,0,0,0);
+  }
+  ///Big Score Sphere
+   
+  planetDisplay(width/2,975,300,0,121,184);
+
+  }
+  void planetDisplay (float x, float y, float radius, float r, float g, float b){//planet display function 
+  //void planetDisplay(float x, float y, float radius, float r, float g, float b, float z){
+  noStroke(); 
+  //pointLight(r, g, b, 0, 255, 0); 
+  fill(r,g,b);
+  lights();
+  //ellipse(x,y, radius, radius);
+  translate(x,y);
+  sphere(radius);
+  }
+  void orbDisplay (float x, float y, float radius1, float radius2, int r, int g, int b){//planet display function 
+  //void planetDisplay(float x, float y, float radius, float r, float g, float b, float z){
+  noStroke(); 
+  //pointLight(r, g, b, 0, 255, 0); 
+  fill(r,g,b);
+  //lights();
+  //translate(x,y);
+  ellipse(x,y, radius1, radius2);
+
+  }
+
+	}	
+   }
+
+  </script><canvas></canvas>
+  <div style="height:0px;width:0px;overflow:hidden;"><img src='map.png' id='map.png'/></div>
+  </body> </html>
+
+  

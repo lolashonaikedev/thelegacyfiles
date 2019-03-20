@@ -1,0 +1,9 @@
+here's where i stopped:
+
+i plotted the number of decisions made by each students (the students were ordered on the x-axis according to the number of decisions they made, so the one with zero decisions is left most and the one with most decisions is right most).
+
+2. The i looked at this plot and in processing, drew decision lines as follows:
+  - for students that make 45-55 deicions, plot the sequence of first 55 decisions
+  - for students that make 95-105 decisions, plot the sequence of first 55 decisions and the another plot of last 45 decisions
+  - compare the two: things i'm looking for- where are the first set spending the most time
+  - still pretty crappy plots though :(

@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html>
+<head> <title> AR Path Visualization </title>
+<script type="text/javascript" src="d3.min.js""></script>
+</head>
+<body>
+<h1> Alien Rescue Data Visualization </h1>
+
+<svg width="1000" height="1000">
+
+  <ellipse cx="500" cy="500" rx="100" ry="100"
+    style="fill:white;stroke:black;stroke-width:2"       />
+ <text x= "410" y="507" fill="black" font-size="20">0</text>
+ <text x="433" y="455" fill="black" font-size="20">1</text>
+ <text x="493" y="420" fill="black" font-size="20">2</text>
+ <text x="557" y="455" fill="black" font-size="20">3</text>
+ <text x="580" y="507" fill="black" font-size="20">4</text>
+ <text x="550" y="560" fill="black" font-size="20">5</text>
+ <text x="493" y="580" fill="black" font-size="20">6</text>
+  <text x="413" y="550" fill="black" font-size="20">Null</text>
+  <text x="473" y="500" fill="black" font-size="20">Score</text>
+  <line x1= "300px" y1="500px" x2="400px" y2="500px" stroke="black"/>
+   <line x1= "500px" y1="400px" x2="500px" y2="300px" stroke="black"/>
+  
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,0)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-7)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-14)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-21)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-28)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-35)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-42)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-49)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-56)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-63)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-70)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-77)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-84)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-91)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-98)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-105)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-112)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-119)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-126)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-133)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-140)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-147)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-154)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-161)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-168)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-175)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-182)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-189)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-196)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-203)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-210)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-217)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-224)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-231)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-238)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-245)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-252)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-259)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-266)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-273)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-280)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-287)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-294)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-301)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-308)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-315)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-322)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-329)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-336)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-343)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="500px" cy="400" rx="50" ry="2.5" transform="translate(0,-350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,0)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-7)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-14)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-21)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-28)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-35)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-42)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-49)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-56)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-63)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-70)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-77)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-84)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-91)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-98)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-105)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-112)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-119)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-126)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-133)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-140)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-147)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-154)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-161)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-168)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-175)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-182)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-189)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-196)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-203)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-210)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-217)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-224)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-231)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-238)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-245)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-252)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-259)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-266)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-273)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-280)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-287)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-294)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-301)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-308)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-315)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-322)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-329)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-336)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-343)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="560px" cy="440" rx="50" ry="" transform=" rotate(45,580,460) translate(0,-350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="610px" cy="560" rx="50" ry="4" transform=" rotate(-90,580,540) translate(0,-350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,0)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,7)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,14)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,21)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,28)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,35)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,42)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,49)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,56)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,63)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,70)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,77)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,84)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,91)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,98)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,105)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,112)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,119)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,126)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,133)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,140)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,147)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,154)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,161)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,168)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,175)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,182)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,189)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,196)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,203)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,210)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,217)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,224)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,231)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,238)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,245)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,252)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,259)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,266)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,273)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,280)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,287)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,294)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,301)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,308)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,315)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,322)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,329)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,336)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,343)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="550px" cy="580" rx="50" ry="4" transform=" rotate(-45,560,580) translate(0,350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,0)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,7)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,14)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,21)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,28)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,35)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,42)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,49)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,56)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,63)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,70)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,77)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,84)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,91)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,98)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,105)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,112)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,119)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,126)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,133)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,140)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,147)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,154)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,161)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,168)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,175)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,182)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,189)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,196)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,203)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,210)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,217)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,224)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,231)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,238)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,245)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,252)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,259)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,266)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,273)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,280)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,287)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,294)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,301)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,308)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,315)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,322)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,329)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,336)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,343)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="460px" cy="600" rx="50" ry="4" transform=" rotate(25,470,610) translate(0,350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,0)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,7)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,14)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,21)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,28)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,35)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,42)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,49)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,56)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,63)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,70)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,77)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,84)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,91)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,98)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,105)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,112)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,119)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,126)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,133)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,140)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,147)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,154)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,161)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,168)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,175)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,182)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,189)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,196)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,203)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,210)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,217)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,224)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,231)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,238)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,245)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,252)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,259)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,266)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,273)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,280)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,287)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,294)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,301)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,308)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,315)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,322)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,329)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,336)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,343)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="410px" cy="540" rx="50" ry="4" transform=" rotate(75,420,530) translate(0,350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,0)" style=" stroke:; stroke-width:0.5; fill:;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-7)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-14)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-21)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-28)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-35)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-42)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-49)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-56)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-63)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-70)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-77)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-84)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-91)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-98)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-105)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-112)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-119)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-126)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-133)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-140)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-147)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-154)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-161)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-168)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-175)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-182)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-189)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-196)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-203)" style=" stroke:#343642; stroke-width:0.5; fill:#343642;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-210)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-217)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-224)" style=" stroke:#979C9C; stroke-width:0.5; fill:#979C9C;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-231)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-238)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-245)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-252)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-259)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-266)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-273)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-280)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-287)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-294)" style=" stroke:#A2EB8F; stroke-width:0.5; fill:#A2EB8F;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-301)" style=" stroke:#FFD34E; stroke-width:0.5; fill:#FFD34E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-308)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-315)" style=" stroke:#962D3E; stroke-width:0.5; fill:#962D3E;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-322)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-329)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-336)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-343)" style=" stroke:#348899; stroke-width:0.5; fill:#348899;"/>
+<ellipse id="pop1" cx="400px" cy="450" rx="50" ry="4" transform=" rotate(-65,400,430) translate(0,-350)" style=" stroke:; stroke-width:0.5; fill:;"/>
+</svg>
+ 
+</body>
+</html>
+    

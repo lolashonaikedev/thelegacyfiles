@@ -1,0 +1,9 @@
+set terminal png font 'arial,16'
+set output PNGFILE
+set datafile separator " "
+set grid
+set pointsize
+set timestamp
+set view equal xyz
+
+splot DATAFILE u 3:4:5 w lines

@@ -1,0 +1,50 @@
+<html> <head>
+<title>Processing.js Example</title>
+<link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="processing.js"></script>
+<script type="text/javascript" src="init.js"></script>
+<script type="text/javascript" src="Table_01.js"></script>
+<script type="text/javascript" src="jquery.pack.js"></script>
+
+</head>
+<body>
+<h1>Pag.33 - drawing objects on top of an image</h1>
+
+<script type="application/processing">
+PImage mapImage;
+Table locationTable;  
+var locationTable;
+int rowCount;
+
+void setup() 
+{
+	size(640, 400);
+	mapImage = loadImage("map.png");
+	
+	// Make a data table from a file that contains
+	// the coordinates of each state.
+	locationTable = new Table("locations.tsv");
+	// The row count will be used a lot, so store it globally.
+	rowCount = locationTable.getRowCount( );
+}
+
+void draw() 
+{
+	background(255);
+	image(mapImage, 0, 0); 
+	// Drawing attributes for the ellipses.
+	smooth( );
+	fill(192, 0, 0);
+	noStroke( );
+
+	// Loop through the rows of the locations file and draw the points.
+	for (int row = 0; row < rowCount; row++) { 
+		float x = locationTable.getFloat(row, 1); // column 1
+		float y = locationTable.getFloat(row, 2); // column 2
+		ellipse(x, y, 9, 9);
+	}	
+}
+
+</script><canvas></canvas>
+<div style="height:0px;width:0px;overflow:hidden;"><img src='map.png' id='map.png'/></div>
+</body> </html>

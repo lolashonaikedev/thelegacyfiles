@@ -1,0 +1,2452 @@
+1	alien database	Cognitive Load	25.520667
+1	solar system	Cognitive Load	4.172633
+1	probe launch	Activities	1.808855
+1	message tool	Hypothesis Testing	0.33965
+1	message	Hypothesis Testing	633.361932
+1	probe design	Activities	624.092539
+1	mission control	Hypothesis Testing	13.817657
+1	alien database	Cognitive Load	19.191874
+1	mission control	Hypothesis Testing	1.609017
+1	alien database	Cognitive Load	7.659242
+1	message tool	Hypothesis Testing	196.842183
+1	message	Hypothesis Testing	217.906158
+1	periodic table	Cognitive Load	15.489826
+1	spectra	Cognitive Load	8.19939
+1	message tool	Hypothesis Testing	0.051449
+1	message	Hypothesis Testing	2044.090034
+1	message tool	Hypothesis Testing	46.532536
+1	message	Hypothesis Testing	2028.330391
+1	message tool	Hypothesis Testing	0.099329
+1	message	Hypothesis Testing	1979.048957
+1	alien database	Cognitive Load	36.462023
+1	probe launch	Activities	3.580698
+1	message	Hypothesis Testing	1853.772533
+1	message tool	Hypothesis Testing	0.187512
+1	notebook	Cognitive Processing	1837.927781
+1	probe launch	Activities	0.625447
+1	notebook	Cognitive Processing	351.51446
+1	missions	Cognitive Load	216.347314
+1	concepts	Cognitive Load	3.589491
+2	notebook	Cognitive Processing	24.594887
+2	solar system	Cognitive Load	20.873123
+2	missions	Cognitive Load	4.970748
+2	concepts	Cognitive Load	758.545159
+2	alien database	Cognitive Load	1265.988043
+2	missions	Cognitive Load	32.229752
+2	missions	Cognitive Load	18.472091
+2	solar system	Cognitive Load	15.750209
+2	notebook	Cognitive Processing	8.086103
+2	notebook	Cognitive Processing	2.168004
+2	solar system	Cognitive Load	64.855265
+2	missions	Cognitive Load	61.46272
+2	concepts	Cognitive Load	56.186615
+2	periodic table	Cognitive Load	44.74067
+2	spectra	Cognitive Load	5.334949
+2	notebook	Cognitive Processing	258.294068
+2	solar system	Cognitive Load	7.32233
+2	periodic table	Cognitive Load	2.375553
+2	concepts	Cognitive Load	537.330312
+2	alien database	Cognitive Load	667.807536
+2	notebook	Cognitive Processing	59.248023
+2	notebook	Cognitive Processing	674.780049
+2	periodic table	Cognitive Load	9.83477
+2	spectra	Cognitive Load	5.707234
+2	concepts	Cognitive Load	2.774457
+2	solar system	Cognitive Load	182.301155
+2	alien database	Cognitive Load	84.706779
+2	notebook	Cognitive Processing	43.751162
+2	periodic table	Cognitive Load	32.667606
+2	solar system	Cognitive Load	5.22235
+2	concepts	Cognitive Load	2.234341
+2	alien database	Cognitive Load	1834.276173
+2	alien database	Cognitive Load	1701.625343
+2	probe design	Activities	8.15733
+2	probe design	Activities	88.166029
+2	probe design	Activities	0.710738
+2	probe design	Activities	153.816841
+2	alien database	Cognitive Load	98.65787
+2	alien database	Cognitive Load	38.272176
+2	message tool	Hypothesis Testing	0.217868
+2	message	Hypothesis Testing	1796.668368
+2	alien database	Cognitive Load	367.032062
+2	solar system	Cognitive Load	147.414169
+2	solar system	Cognitive Load	38.374219
+2	probe design	Activities	1154.525007
+2	solar system	Cognitive Load	2.611035
+2	probe design	Activities	309.756998
+2	probe launch	Activities	23.847648
+2	message tool	Hypothesis Testing	0.180491
+2	message	Hypothesis Testing	91.827684
+2	message tool	Hypothesis Testing	87.237773
+2	message	Hypothesis Testing	87.209396
+2	mission control	Hypothesis Testing	20.76363
+2	mission control	Hypothesis Testing	1.576715
+2	probe launch	Activities	1.93604
+2	mission control	Hypothesis Testing	57.444562
+2	message tool	Hypothesis Testing	0.041511
+2	message	Hypothesis Testing	2108.816098
+2	mission control	Hypothesis Testing	17.793264
+2	mission control	Hypothesis Testing	2.520802
+2	alien database	Cognitive Load	2001.937987
+2	solar system	Cognitive Load	72.302654
+2	solar system	Cognitive Load	90.565371
+2	periodic table	Cognitive Load	44.735785
+2	spectra	Cognitive Load	48.110984
+2	solar system	Cognitive Load	22.122278
+2	missions	Cognitive Load	18.218388
+2	concepts	Cognitive Load	10.191864
+2	periodic table	Cognitive Load	5.607151
+2	spectra	Cognitive Load	2.407923
+2	spectra	Cognitive Load	13.50439
+2	solar system	Cognitive Load	426.621396
+2	spectra	Cognitive Load	40.230207
+2	periodic table	Cognitive Load	20.710622
+2	spectra	Cognitive Load	89.970939
+2	solar system	Cognitive Load	509.076149
+2	concepts	Cognitive Load	4.331592
+2	spectra	Cognitive Load	87.458659
+3	solar system	Cognitive Load	1794.853902
+3	solar system	Cognitive Load	1821.582943
+3	message	Hypothesis Testing	2495.688489
+3	mission control	Hypothesis Testing	0.801712
+3	mission control	Hypothesis Testing	1.361607
+3	mission control	Hypothesis Testing	0.081015
+3	mission control	Hypothesis Testing	0.630829
+3	solar system	Cognitive Load	36.877695
+3	alien database	Cognitive Load	2360.472923
+3	spectra	Cognitive Load	4.43472
+3	solar system	Cognitive Load	128.067225
+3	spectra	Cognitive Load	32.653524
+3	solar system	Cognitive Load	2.0994
+3	spectra	Cognitive Load	172.112215
+3	solar system	Cognitive Load	18.300467
+3	spectra	Cognitive Load	407.484134
+3	periodic table	Cognitive Load	21.066893
+3	periodic table	Cognitive Load	22.133075
+3	solar system	Cognitive Load	12.396874
+3	spectra	Cognitive Load	14.71452
+3	solar system	Cognitive Load	23.959937
+4	mission control	Hypothesis Testing	28.493231
+4	alien database	Cognitive Load	2055.610292
+4	spectra	Cognitive Load	14.251659
+4	solar system	Cognitive Load	49.797957
+4	solar system	Cognitive Load	55.623049
+4	solar system	Cognitive Load	2.218056
+4	solar system	Cognitive Load	44.998203
+4	solar system	Cognitive Load	180.859058
+4	solar system	Cognitive Load	43.172724
+4	spectra	Cognitive Load	166.444371
+4	periodic table	Cognitive Load	11.516362
+4	alien database	Cognitive Load	598.635727
+4	solar system	Cognitive Load	86.01147
+4	solar system	Cognitive Load	205.725465
+4	alien database	Cognitive Load	265.380705
+4	spectra	Cognitive Load	4.772024
+4	periodic table	Cognitive Load	2.873053
+4	probe design	Activities	0.460735
+4	probe design	Activities	0.456395
+4	probe design	Activities	48.765798
+4	probe launch	Activities	0.403216
+4	probe launch	Activities	0.478052
+4	probe launch	Activities	13.143867
+4	probe launch	Activities	0.404088
+4	probe launch	Activities	0.421176
+4	message	Hypothesis Testing	2366.477821
+4	alien database	Cognitive Load	1667.490249
+4	notebook	Cognitive Processing	4.747732
+4	solar system	Cognitive Load	248.124385
+4	solar system	Cognitive Load	119.38266
+4	solar system	Cognitive Load	140.665068
+4	solar system	Cognitive Load	46.735982
+4	solar system	Cognitive Load	229.159236
+4	solar system	Cognitive Load	92.151277
+4	solar system	Cognitive Load	60.088
+4	probe design	Activities	0.302549
+4	probe design	Activities	0.517563
+4	probe design	Activities	0.459369
+4	probe design	Activities	0.44901
+4	probe design	Activities	201.187997
+4	probe design	Activities	139.983517
+4	probe design	Activities	108.214193
+4	alien database	Cognitive Load	172.533592
+4	message	Hypothesis Testing	3.399354
+4	probe design	Activities	0.315199
+4	probe design	Activities	0.443815
+4	probe design	Activities	109.215913
+4	probe launch	Activities	17.291054
+4	probe design	Activities	0.462905
+4	probe design	Activities	133.327641
+4	probe launch	Activities	21.768766
+4	mission control	Hypothesis Testing	302.209168
+4	probe design	Activities	84.101025
+4	probe launch	Activities	16.606218
+4	mission control	Hypothesis Testing	79.548792
+4	alien database	Cognitive Load	24.954082
+4	mission control	Hypothesis Testing	91.697692
+4	alien database	Cognitive Load	324.883139
+4	message	Hypothesis Testing	554.880197
+1	message tool	Hypothesis Testing	0.010763
+1	message tool	Hypothesis Testing	0.402818
+1	message tool	Hypothesis Testing	0.399586
+1	alien database	Cognitive Load	141.539492
+1	solar system	Cognitive Load	103.13509
+1	probe launch	Activities	2.051957
+1	mission control	Hypothesis Testing	2.029926
+1	mission control	Hypothesis Testing	1.458899
+1	probe design	Activities	221.509387
+1	alien database	Cognitive Load	50.432887
+1	message tool	Hypothesis Testing	0.446101
+1	message tool	Hypothesis Testing	0.265908
+1	message	Hypothesis Testing	2130.83854
+1	message tool	Hypothesis Testing	188.024703
+1	message	Hypothesis Testing	2119.009381
+1	mission control	Hypothesis Testing	1.667207
+1	message	Hypothesis Testing	1931.295092
+1	message tool	Hypothesis Testing	0.292769
+1	alien database	Cognitive Load	3.46221
+1	alien database	Cognitive Load	78.57606
+1	notebook	Cognitive Processing	4.939593
+1	alien database	Cognitive Load	2.914915
+1	alien database	Cognitive Load	13.009383
+1	spectra	Cognitive Load	27.132999
+1	periodic table	Cognitive Load	18.585714
+1	concepts	Cognitive Load	3.3884
+1	solar system	Cognitive Load	7.407899
+1	notebook	Cognitive Processing	2.515148
+1	alien database	Cognitive Load	82.161285
+1	alien database	Cognitive Load	3.177209
+1	alien database	Cognitive Load	47.407011
+1	concepts	Cognitive Load	13.050874
+1	alien database	Cognitive Load	25.11648
+1	message tool	Hypothesis Testing	532.82715
+1	message	Hypothesis Testing	532.784626
+1	probe design	Activities	424.502615
+1	alien database	Cognitive Load	3.783364
+1	concepts	Cognitive Load	339.573612
+1	missions	Cognitive Load	339.418508
+2	alien database	Cognitive Load	1810.733432
+2	notebook	Cognitive Processing	3.933024
+2	notebook	Cognitive Processing	21.889231
+2	notebook	Cognitive Processing	217.177193
+2	notebook	Cognitive Processing	321.349614
+2	alien database	Cognitive Load	926.957034
+2	probe design	Activities	1176.642675
+2	alien database	Cognitive Load	899.835815
+2	spectra	Cognitive Load	48.498471
+2	alien database	Cognitive Load	995.338207
+2	periodic table	Cognitive Load	11.275874
+2	spectra	Cognitive Load	73.147381
+2	spectra	Cognitive Load	104.124885
+2	spectra	Cognitive Load	89.74285
+2	solar system	Cognitive Load	603.5819
+2	probe design	Activities	573.290666
+2	message tool	Hypothesis Testing	325.566146
+2	message	Hypothesis Testing	325.534101
+2	solar system	Cognitive Load	96.057957
+2	alien database	Cognitive Load	131.767318
+2	spectra	Cognitive Load	82.046536
+2	solar system	Cognitive Load	10.676501
+3	solar system	Cognitive Load	1869.469747
+3	probe design	Activities	1968.636028
+3	probe launch	Activities	47.873214
+3	probe launch	Activities	0.060658
+3	mission control	Hypothesis Testing	1364.084017
+3	solar system	Cognitive Load	1119.66953
+3	mission control	Hypothesis Testing	194.96534
+3	solar system	Cognitive Load	94.259936
+3	message	Hypothesis Testing	2822.95553
+3	message	Hypothesis Testing	2787.84749
+3	message	Hypothesis Testing	2784.973215
+3	probe launch	Activities	2771.960006
+3	probe launch	Activities	2770.368642
+3	mission control	Hypothesis Testing	0.357307
+3	mission control	Hypothesis Testing	0.506388
+3	mission control	Hypothesis Testing	376.805457
+3	alien database	Cognitive Load	102.918721
+3	concepts	Cognitive Load	370.472555
+3	missions	Cognitive Load	7.612581
+3	concepts	Cognitive Load	7.862089
+3	mission control	Hypothesis Testing	924.745368
+3	alien database	Cognitive Load	747.218646
+3	spectra	Cognitive Load	319.042878
+3	message	Hypothesis Testing	2468.914034
+3	mission control	Hypothesis Testing	0.341117
+3	mission control	Hypothesis Testing	0.745079
+3	mission control	Hypothesis Testing	2448.78739
+3	alien database	Cognitive Load	2344.840664
+3	spectra	Cognitive Load	5.85087
+3	spectra	Cognitive Load	10.148258
+3	periodic table	Cognitive Load	2.076809
+3	spectra	Cognitive Load	144.151403
+3	periodic table	Cognitive Load	17.5998
+3	spectra	Cognitive Load	161.905377
+3	periodic table	Cognitive Load	28.50191
+3	periodic table	Cognitive Load	41.486974
+4	alien database	Cognitive Load	1002.951937
+4	spectra	Cognitive Load	23.831823
+4	spectra	Cognitive Load	9.371027
+4	spectra	Cognitive Load	10.42238
+4	alien database	Cognitive Load	1004.111647
+4	probe design	Activities	1.801084
+4	probe design	Activities	0.34301
+4	mission control	Hypothesis Testing	756.242565
+4	notebook	Cognitive Processing	11.032244
+4	alien database	Cognitive Load	85.803347
+4	probe design	Activities	0.478024
+4	probe design	Activities	336.239784
+4	probe design	Activities	1.652104
+4	probe launch	Activities	0.316489
+4	probe launch	Activities	10.304665
+4	probe launch	Activities	0.23769
+4	probe launch	Activities	0.46248
+4	alien database	Cognitive Load	2.880108
+4	mission control	Hypothesis Testing	42.079832
+4	mission control	Hypothesis Testing	0.125907
+4	mission control	Hypothesis Testing	155.042899
+4	probe design	Activities	0.391457
+4	probe design	Activities	42.120768
+4	alien database	Cognitive Load	72.277987
+4	message	Hypothesis Testing	2067.482513
+4	alien database	Cognitive Load	801.098023
+4	periodic table	Cognitive Load	2.45154
+4	periodic table	Cognitive Load	1.768014
+4	concepts	Cognitive Load	2.177791
+4	spectra	Cognitive Load	72.444505
+4	spectra	Cognitive Load	2.49533
+4	missions	Cognitive Load	5.990648
+4	missions	Cognitive Load	2.220207
+4	concepts	Cognitive Load	6.537162
+4	solar system	Cognitive Load	137.738907
+4	mission control	Hypothesis Testing	0.491984
+4	mission control	Hypothesis Testing	107.211617
+4	probe design	Activities	253.657721
+4	probe launch	Activities	0.352889
+4	probe launch	Activities	0.189616
+4	probe launch	Activities	8.959068
+4	probe launch	Activities	0.467317
+4	mission control	Hypothesis Testing	333.337394
+4	alien database	Cognitive Load	10.565698
+4	probe design	Activities	0.291391
+4	probe design	Activities	175.422768
+4	mission control	Hypothesis Testing	7.1108
+4	mission control	Hypothesis Testing	6.354211
+4	probe launch	Activities	14.825023
+4	mission control	Hypothesis Testing	49.005571
+4	alien database	Cognitive Load	849.770375
+4	alien database	Cognitive Load	249.187648
+4	message	Hypothesis Testing	630.107026
+1	notebook	Cognitive Processing	3.468435
+1	probe design	Activities	78.480225
+1	probe launch	Activities	69.335003
+1	alien database	Cognitive Load	9.937323
+1	mission control	Hypothesis Testing	3.212573
+1	mission control	Hypothesis Testing	4.816392
+1	message tool	Hypothesis Testing	94.148947
+1	message	Hypothesis Testing	239.9389
+1	missions	Cognitive Load	35.671261
+1	notebook	Cognitive Processing	3.8292
+1	solar system	Cognitive Load	22.263762
+1	concepts	Cognitive Load	11.03035
+1	periodic table	Cognitive Load	12.703263
+1	spectra	Cognitive Load	22.760296
+1	periodic table	Cognitive Load	5.009762
+1	concepts	Cognitive Load	4.74716
+1	missions	Cognitive Load	20.251118
+1	probe design	Activities	8.462186
+1	alien database	Cognitive Load	44.341799
+1	alien database	Cognitive Load	11.391747
+1	mission control	Hypothesis Testing	5.918457
+1	mission control	Hypothesis Testing	7.383661
+1	message tool	Hypothesis Testing	96.289831
+1	message	Hypothesis Testing	1941.642412
+1	probe launch	Activities	1.973095
+1	message tool	Hypothesis Testing	0.382359
+1	message	Hypothesis Testing	872.732115
+1	message tool	Hypothesis Testing	0.921957
+1	message	Hypothesis Testing	866.507825
+1	message tool	Hypothesis Testing	0.231672
+1	message	Hypothesis Testing	858.370136
+1	missions	Cognitive Load	4.811334
+1	concepts	Cognitive Load	638.588441
+1	missions	Cognitive Load	209.505558
+2	alien database	Cognitive Load	1906.002521
+2	concepts	Cognitive Load	2.477437
+2	periodic table	Cognitive Load	5.198119
+2	spectra	Cognitive Load	44.927204
+2	spectra	Cognitive Load	49.5355
+2	periodic table	Cognitive Load	2.767586
+2	spectra	Cognitive Load	968.556256
+2	concepts	Cognitive Load	2.660414
+2	solar system	Cognitive Load	2.51369
+2	periodic table	Cognitive Load	85.204682
+2	spectra	Cognitive Load	53.927533
+2	probe design	Activities	2.752299
+2	alien database	Cognitive Load	431.875125
+2	probe design	Activities	360.426306
+2	probe design	Activities	215.263384
+2	probe launch	Activities	11.15244
+2	probe launch	Activities	4.828274
+2	mission control	Hypothesis Testing	12.204076
+2	concepts	Cognitive Load	2.991432
+2	solar system	Cognitive Load	154.72221
+2	alien database	Cognitive Load	269.255798
+2	mission control	Hypothesis Testing	13.041982
+2	mission control	Hypothesis Testing	8.468559
+2	probe design	Activities	34.109229
+2	mission control	Hypothesis Testing	13.540158
+2	mission control	Hypothesis Testing	1.92568
+2	probe design	Activities	611.283773
+2	probe launch	Activities	15.971598
+2	probe launch	Activities	10.731515
+2	mission control	Hypothesis Testing	57.864619
+2	probe design	Activities	62.552919
+2	probe design	Activities	4.459665
+2	probe launch	Activities	14.684272
+2	mission control	Hypothesis Testing	36.350374
+2	mission control	Hypothesis Testing	3.28537
+2	mission control	Hypothesis Testing	2.781077
+2	probe design	Activities	41.368988
+2	probe design	Activities	21.365009
+2	probe launch	Activities	7.256966
+2	probe design	Activities	61.327992
+2	probe launch	Activities	556.178371
+2	probe design	Activities	386.572077
+2	probe design	Activities	231.380854
+2	probe design	Activities	42.791143
+2	probe launch	Activities	23.000773
+2	mission control	Hypothesis Testing	175.576317
+2	probe design	Activities	48.17795
+2	probe design	Activities	148.298317
+2	probe design	Activities	35.430614
+2	alien database	Cognitive Load	31.293596
+2	probe launch	Activities	3.424716
+2	mission control	Hypothesis Testing	250.426081
+2	mission control	Hypothesis Testing	96.890372
+2	mission control	Hypothesis Testing	1.51588
+2	probe design	Activities	236.53976
+2	probe launch	Activities	14.982441
+2	mission control	Hypothesis Testing	122.322365
+2	message tool	Hypothesis Testing	65.654901
+2	message	Hypothesis Testing	1399.719325
+2	probe design	Activities	59.354929
+2	probe design	Activities	442.352825
+2	probe design	Activities	312.840955
+2	message tool	Hypothesis Testing	108.313203
+2	message	Hypothesis Testing	956.932408
+2	probe design	Activities	17.419448
+2	mission control	Hypothesis Testing	33.890377
+2	message tool	Hypothesis Testing	11.584944
+2	message	Hypothesis Testing	716.723032
+2	probe design	Activities	100.869012
+2	probe launch	Activities	16.105334
+2	mission control	Hypothesis Testing	138.466888
+2	probe design	Activities	0.111237
+2	probe design	Activities	48.240453
+2	probe launch	Activities	0.164045
+2	probe launch	Activities	21.489814
+2	mission control	Hypothesis Testing	29.923549
+2	mission control	Hypothesis Testing	3.309699
+2	probe design	Activities	46.001216
+2	probe launch	Activities	21.149796
+2	message tool	Hypothesis Testing	54.727719
+2	message	Hypothesis Testing	54.656863
+3	concepts	Cognitive Load	6.593555
+3	solar system	Cognitive Load	1366.777067
+3	mission control	Hypothesis Testing	67.546293
+3	probe design	Activities	63.430906
+3	probe launch	Activities	14.895822
+3	probe launch	Activities	0.402064
+3	probe launch	Activities	0.150788
+3	message tool	Hypothesis Testing	0.244491
+3	message	Hypothesis Testing	52.08779
+3	periodic table	Cognitive Load	18.594581
+3	spectra	Cognitive Load	10.941713
+3	solar system	Cognitive Load	689.484226
+3	message tool	Hypothesis Testing	1293.85507
+3	message	Hypothesis Testing	1293.81673
+3	missions	Cognitive Load	2.890949
+3	concepts	Cognitive Load	1.58306
+3	solar system	Cognitive Load	1164.649298
+3	message	Hypothesis Testing	1355.529685
+3	message	Hypothesis Testing	1263.122774
+3	alien database	Cognitive Load	5.335402
+3	alien database	Cognitive Load	614.243596
+3	probe design	Activities	75.422399
+3	message	Hypothesis Testing	369.232421
+3	message	Hypothesis Testing	366.551894
+3	message	Hypothesis Testing	278.224503
+3	message	Hypothesis Testing	272.554808
+3	alien database	Cognitive Load	131.519781
+3	message	Hypothesis Testing	2183.511579
+3	probe design	Activities	0.519284
+3	probe design	Activities	0.533032
+3	alien database	Cognitive Load	72.333211
+3	message	Hypothesis Testing	2010.706828
+3	mission control	Hypothesis Testing	5.827206
+3	message	Hypothesis Testing	1889.526603
+3	alien database	Cognitive Load	936.370463
+3	alien database	Cognitive Load	1.698539
+3	message	Hypothesis Testing	766.953734
+3	message	Hypothesis Testing	711.403903
+3	message	Hypothesis Testing	467.466254
+3	message	Hypothesis Testing	268.181193
+3	probe design	Activities	127.013314
+3	probe design	Activities	39.434384
+3	message	Hypothesis Testing	3.954908
+4	message	Hypothesis Testing	2761.823574
+4	probe launch	Activities	0.067842
+4	probe launch	Activities	0.494406
+4	probe launch	Activities	0.267309
+4	mission control	Hypothesis Testing	0.447518
+4	mission control	Hypothesis Testing	2.928672
+4	message	Hypothesis Testing	2509.241926
+4	alien database	Cognitive Load	1854.868999
+4	periodic table	Cognitive Load	90.575949
+4	spectra	Cognitive Load	90.528909
+4	spectra	Cognitive Load	1763.557468
+4	periodic table	Cognitive Load	2334.558019
+4	probe design	Activities	113.652039
+4	probe launch	Activities	0.591824
+4	probe launch	Activities	14.46578
+4	mission control	Hypothesis Testing	0.476437
+4	mission control	Hypothesis Testing	79.578644
+4	message	Hypothesis Testing	1354.033913
+4	message	Hypothesis Testing	1345.062721
+4	alien database	Cognitive Load	509.811024
+4	spectra	Cognitive Load	124.984377
+4	message	Hypothesis Testing	604.867234
+4	alien database	Cognitive Load	493.321927
+4	mission control	Hypothesis Testing	94.915791
+4	message	Hypothesis Testing	1402.527021
+4	probe launch	Activities	1.828981
+4	probe design	Activities	17.098287
+4	message	Hypothesis Testing	1056.7112
+4	message	Hypothesis Testing	1046.489878
+4	alien database	Cognitive Load	1029.017153
+4	probe design	Activities	1.774362
+1	concepts	Cognitive Load	5.38468
+1	alien database	Cognitive Load	9.345138
+1	probe design	Activities	225.817254
+1	mission control	Hypothesis Testing	1.425181
+1	mission control	Hypothesis Testing	1.887209
+1	probe design	Activities	1.326977
+1	mission control	Hypothesis Testing	1.092204
+1	probe launch	Activities	1.873453
+1	alien database	Cognitive Load	11.761541
+1	alien database	Cognitive Load	2.09992
+1	probe design	Activities	1.085412
+1	alien database	Cognitive Load	28.704339
+1	message tool	Hypothesis Testing	0.696229
+1	message	Hypothesis Testing	1915.201846
+1	message tool	Hypothesis Testing	107.706929
+1	message	Hypothesis Testing	1909.330453
+1	message tool	Hypothesis Testing	75.9787
+1	message	Hypothesis Testing	1798.238179
+1	message tool	Hypothesis Testing	0.684136
+1	message	Hypothesis Testing	1721.663586
+1	message tool	Hypothesis Testing	0.532024
+1	message	Hypothesis Testing	1711.039164
+1	alien database	Cognitive Load	73.339101
+1	probe launch	Activities	1.996448
+1	probe launch	Activities	1.43562
+1	message tool	Hypothesis Testing	1.341962
+1	message	Hypothesis Testing	515.61292
+1	probe design	Activities	7.044009
+1	probe design	Activities	0.644999
+1	probe launch	Activities	3.077023
+1	alien database	Cognitive Load	40.108886
+1	alien database	Cognitive Load	311.194674
+1	missions	Cognitive Load	191.665097
+1	concepts	Cognitive Load	47.934341
+1	solar system	Cognitive Load	24.858605
+1	concepts	Cognitive Load	26.764492
+1	missions	Cognitive Load	29.71871
+2	alien database	Cognitive Load	305.633097
+2	probe design	Activities	6.895216
+2	probe design	Activities	1.411914
+2	alien database	Cognitive Load	182.138369
+2	probe launch	Activities	2.296393
+2	mission control	Hypothesis Testing	2.437482
+2	mission control	Hypothesis Testing	2.122096
+2	probe design	Activities	0.063795
+2	probe design	Activities	0.612643
+2	probe design	Activities	4.716278
+2	spectra	Cognitive Load	7.906927
+2	alien database	Cognitive Load	1069.927303
+2	spectra	Cognitive Load	293.887388
+2	spectra	Cognitive Load	37.102127
+2	spectra	Cognitive Load	30.40315
+2	periodic table	Cognitive Load	12.214222
+2	spectra	Cognitive Load	73.68389
+2	periodic table	Cognitive Load	59.663208
+2	solar system	Cognitive Load	136.920061
+2	alien database	Cognitive Load	1429.806245
+2	periodic table	Cognitive Load	3.84456
+2	missions	Cognitive Load	3.540284
+2	spectra	Cognitive Load	45.014746
+2	periodic table	Cognitive Load	26.108831
+2	spectra	Cognitive Load	11.847245
+2	probe launch	Activities	0.08099
+2	alien database	Cognitive Load	3.653578
+2	message tool	Hypothesis Testing	0.131329
+2	message	Hypothesis Testing	291.450398
+2	message	Hypothesis Testing	279.170504
+2	message tool	Hypothesis Testing	0.289343
+2	alien database	Cognitive Load	239.328643
+2	solar system	Cognitive Load	136.334625
+2	alien database	Cognitive Load	536.024962
+2	spectra	Cognitive Load	10.427926
+2	solar system	Cognitive Load	150.486161
+2	solar system	Cognitive Load	4.075603
+2	spectra	Cognitive Load	19.893898
+2	probe design	Activities	80.148812
+2	alien database	Cognitive Load	168.057738
+2	solar system	Cognitive Load	20.422156
+2	spectra	Cognitive Load	7.20999
+2	solar system	Cognitive Load	75.344043
+2	probe design	Activities	0.054696
+2	probe design	Activities	103.843953
+2	notebook	Cognitive Processing	12.087275
+2	missions	Cognitive Load	2.645915
+2	concepts	Cognitive Load	2.863014
+2	alien database	Cognitive Load	41.275433
+2	probe design	Activities	11.627082
+2	probe design	Activities	463.92702
+2	alien database	Cognitive Load	52.39237
+2	probe design	Activities	128.075804
+2	probe design	Activities	132.030564
+2	probe launch	Activities	40.30801
+2	mission control	Hypothesis Testing	22.368026
+2	mission control	Hypothesis Testing	7.588906
+2	alien database	Cognitive Load	144.130007
+2	solar system	Cognitive Load	112.582128
+2	alien database	Cognitive Load	35.335274
+2	mission control	Hypothesis Testing	22.164179
+2	probe design	Activities	136.24859
+2	probe launch	Activities	11.145838
+2	mission control	Hypothesis Testing	275.615241
+2	mission control	Hypothesis Testing	1.538241
+2	mission control	Hypothesis Testing	42.304029
+2	alien database	Cognitive Load	492.896816
+2	spectra	Cognitive Load	107.144104
+2	solar system	Cognitive Load	95.795188
+2	solar system	Cognitive Load	228.969245
+2	solar system	Cognitive Load	3.309034
+2	mission control	Hypothesis Testing	97.509933
+2	solar system	Cognitive Load	28.604016
+2	solar system	Cognitive Load	12.646629
+2	alien database	Cognitive Load	687.26221
+2	solar system	Cognitive Load	90.039618
+2	spectra	Cognitive Load	33.895887
+2	periodic table	Cognitive Load	39.260379
+2	solar system	Cognitive Load	186.341361
+2	solar system	Cognitive Load	16.734928
+2	probe design	Activities	2.270534
+3	solar system	Cognitive Load	2096.568955
+3	solar system	Cognitive Load	625.942471
+3	solar system	Cognitive Load	1317.17204
+3	alien database	Cognitive Load	5.895282
+3	alien database	Cognitive Load	456.529915
+3	spectra	Cognitive Load	102.039731
+3	periodic table	Cognitive Load	14.248351
+3	spectra	Cognitive Load	17.827119
+3	spectra	Cognitive Load	18.658694
+3	periodic table	Cognitive Load	20.258071
+3	notebook	Cognitive Processing	1.996097
+3	probe design	Activities	22.391452
+3	mission control	Hypothesis Testing	0.412208
+3	mission control	Hypothesis Testing	18.89388
+3	mission control	Hypothesis Testing	0.440168
+3	mission control	Hypothesis Testing	0.79608
+3	probe design	Activities	0.955323
+3	probe design	Activities	551.17391
+3	concepts	Cognitive Load	42.345243
+3	probe launch	Activities	15.093912
+3	mission control	Hypothesis Testing	45.826262
+3	probe design	Activities	1.400603
+3	probe design	Activities	167.484056
+3	probe launch	Activities	12.877736
+3	mission control	Hypothesis Testing	153.363528
+3	mission control	Hypothesis Testing	11.016396
+3	mission control	Hypothesis Testing	5.113671
+3	alien database	Cognitive Load	2432.136118
+3	spectra	Cognitive Load	35.828613
+3	spectra	Cognitive Load	25.82814
+3	periodic table	Cognitive Load	12.280294
+3	spectra	Cognitive Load	13.375406
+3	alien database	Cognitive Load	1020.272385
+3	periodic table	Cognitive Load	3.432793
+3	spectra	Cognitive Load	104.561675
+3	periodic table	Cognitive Load	10.237141
+3	solar system	Cognitive Load	2.70175
+3	periodic table	Cognitive Load	28.883465
+3	spectra	Cognitive Load	18.644946
+3	spectra	Cognitive Load	8.995706
+3	spectra	Cognitive Load	22.203336
+3	spectra	Cognitive Load	4.527115
+3	solar system	Cognitive Load	17.407176
+4	alien database	Cognitive Load	2517.16731
+4	concepts	Cognitive Load	3.5277
+4	solar system	Cognitive Load	14.399368
+4	solar system	Cognitive Load	27.498764
+4	solar system	Cognitive Load	352.749787
+4	spectra	Cognitive Load	50.824446
+4	periodic table	Cognitive Load	4.391249
+4	spectra	Cognitive Load	139.551406
+4	periodic table	Cognitive Load	347.302455
+4	solar system	Cognitive Load	343.171725
+4	spectra	Cognitive Load	14.464026
+4	alien database	Cognitive Load	102.712294
+4	solar system	Cognitive Load	90.093223
+4	mission control	Hypothesis Testing	120.10522
+4	solar system	Cognitive Load	2.258913
+4	alien database	Cognitive Load	79.7352
+4	message	Hypothesis Testing	2390.43578
+4	probe design	Activities	181.291552
+4	probe launch	Activities	0.499848
+4	probe launch	Activities	33.759924
+4	mission control	Hypothesis Testing	64.797312
+4	probe design	Activities	254.353807
+4	probe launch	Activities	13.053271
+4	mission control	Hypothesis Testing	184.759904
+4	probe design	Activities	73.917783
+4	mission control	Hypothesis Testing	215.884429
+4	solar system	Cognitive Load	24.285679
+4	probe launch	Activities	0.069769
+4	probe launch	Activities	6.828471
+4	missions	Cognitive Load	7.145962
+4	probe design	Activities	6.417942
+4	probe design	Activities	171.229497
+4	mission control	Hypothesis Testing	2.991409
+4	mission control	Hypothesis Testing	0.548783
+4	probe launch	Activities	23.652536
+4	mission control	Hypothesis Testing	18.832636
+4	probe design	Activities	95.211595
+4	probe design	Activities	117.205876
+4	probe launch	Activities	34.6105
+1	probe design	Activities	29.551942
+1	notebook	Cognitive Processing	2.709517
+1	probe design	Activities	8.739592
+1	alien database	Cognitive Load	27.480743
+1	probe launch	Activities	1.678881
+1	mission control	Hypothesis Testing	2.706318
+1	mission control	Hypothesis Testing	0.571827
+1	message tool	Hypothesis Testing	19.463297
+1	message	Hypothesis Testing	572.082478
+1	message	Hypothesis Testing	528.745243
+1	message tool	Hypothesis Testing	32.635851
+1	message tool	Hypothesis Testing	0.48757
+1	message	Hypothesis Testing	495.92657
+1	alien database	Cognitive Load	6.51088
+1	message	Hypothesis Testing	373.117633
+1	message tool	Hypothesis Testing	219.214696
+1	message	Hypothesis Testing	230.049807
+1	message tool	Hypothesis Testing	76.137438
+1	notebook	Cognitive Processing	2.997377
+1	probe design	Activities	3.663152
+1	message tool	Hypothesis Testing	10.889375
+1	message	Hypothesis Testing	35.626584
+1	notebook	Cognitive Processing	24.039983
+1	message tool	Hypothesis Testing	16.984284
+1	message	Hypothesis Testing	2182.516659
+1	probe design	Activities	75.012498
+1	alien database	Cognitive Load	1123.805759
+1	message tool	Hypothesis Testing	1.502652
+1	message	Hypothesis Testing	1894.092526
+1	probe design	Activities	0.161347
+1	probe launch	Activities	2.166509
+1	mission control	Hypothesis Testing	1.394186
+1	probe design	Activities	1.409688
+1	probe launch	Activities	2.534107
+1	alien database	Cognitive Load	5.658203
+1	message	Hypothesis Testing	836.91367
+1	message tool	Hypothesis Testing	3.762884
+1	message tool	Hypothesis Testing	0.379854
+1	message	Hypothesis Testing	759.091262
+1	probe design	Activities	2.12008
+1	alien database	Cognitive Load	565.911345
+1	missions	Cognitive Load	4.38024
+1	missions	Cognitive Load	292.572631
+1	concepts	Cognitive Load	69.622843
+2	alien database	Cognitive Load	421.177953
+2	alien database	Cognitive Load	1245.122424
+2	spectra	Cognitive Load	528.526075
+2	periodic table	Cognitive Load	3.133627
+2	periodic table	Cognitive Load	119.472139
+2	periodic table	Cognitive Load	125.169587
+2	periodic table	Cognitive Load	0.058552
+2	spectra	Cognitive Load	55.358898
+2	periodic table	Cognitive Load	13.919335
+2	spectra	Cognitive Load	14.721662
+2	spectra	Cognitive Load	41.068283
+2	periodic table	Cognitive Load	8.503653
+2	missions	Cognitive Load	4.972912
+2	solar system	Cognitive Load	202.968828
+2	message tool	Hypothesis Testing	82.400478
+2	message	Hypothesis Testing	2121.231998
+2	alien database	Cognitive Load	1350.064827
+2	spectra	Cognitive Load	58.913907
+2	periodic table	Cognitive Load	52.863102
+2	periodic table	Cognitive Load	63.896104
+2	spectra	Cognitive Load	61.245913
+2	message tool	Hypothesis Testing	26.439685
+2	message	Hypothesis Testing	617.342488
+2	mission control	Hypothesis Testing	1.799289
+2	alien database	Cognitive Load	538.959452
+2	periodic table	Cognitive Load	58.421264
+2	spectra	Cognitive Load	262.794934
+2	periodic table	Cognitive Load	49.360003
+2	spectra	Cognitive Load	105.631081
+2	periodic table	Cognitive Load	26.946632
+2	periodic table	Cognitive Load	57.684284
+2	probe design	Activities	252.379454
+2	probe launch	Activities	119.916996
+2	mission control	Hypothesis Testing	18.812832
+2	probe launch	Activities	3.152262
+2	mission control	Hypothesis Testing	10.008991
+2	probe design	Activities	116.051457
+2	probe launch	Activities	20.801809
+2	probe launch	Activities	7.178172
+2	mission control	Hypothesis Testing	94.300442
+2	periodic table	Cognitive Load	7.511593
+2	spectra	Cognitive Load	11.926243
+2	notebook	Cognitive Processing	4.480363
+2	alien database	Cognitive Load	489.823841
+2	spectra	Cognitive Load	63.405805
+2	periodic table	Cognitive Load	109.776678
+2	solar system	Cognitive Load	5.722651
+2	spectra	Cognitive Load	21.166811
+2	solar system	Cognitive Load	14.393116
+2	missions	Cognitive Load	17.352888
+2	solar system	Cognitive Load	16.286547
+2	probe design	Activities	6.308085
+2	message tool	Hypothesis Testing	2.793972
+2	message	Hypothesis Testing	853.186374
+2	mission control	Hypothesis Testing	0.076617
+2	alien database	Cognitive Load	185.713428
+2	notebook	Cognitive Processing	19.223142
+2	periodic table	Cognitive Load	86.590054
+2	spectra	Cognitive Load	87.202605
+2	notebook	Cognitive Processing	2.594786
+2	probe design	Activities	173.103519
+2	probe launch	Activities	35.197114
+2	mission control	Hypothesis Testing	112.570681
+2	probe design	Activities	6.537609
+2	alien database	Cognitive Load	76.405518
+2	mission control	Hypothesis Testing	17.874016
+2	alien database	Cognitive Load	36.20618
+2	probe design	Activities	204.561541
+2	probe launch	Activities	10.624142
+2	mission control	Hypothesis Testing	0.347757
+2	mission control	Hypothesis Testing	25.20158
+2	alien database	Cognitive Load	478.03887
+2	spectra	Cognitive Load	442.920432
+2	periodic table	Cognitive Load	442.797989
+2	mission control	Hypothesis Testing	627.368313
+2	probe design	Activities	114.507141
+2	probe design	Activities	69.352535
+2	probe design	Activities	134.105406
+2	probe launch	Activities	3.287066
+2	probe launch	Activities	0.551033
+2	mission control	Hypothesis Testing	103.057554
+2	alien database	Cognitive Load	179.144127
+2	spectra	Cognitive Load	147.265842
+2	alien database	Cognitive Load	30.929979
+2	mission control	Hypothesis Testing	46.287511
+2	probe design	Activities	121.776868
+2	probe launch	Activities	5.698567
+2	mission control	Hypothesis Testing	2.247705
+3	solar system	Cognitive Load	322.356658
+3	mission control	Hypothesis Testing	32.562265
+3	solar system	Cognitive Load	550.100086
+3	mission control	Hypothesis Testing	95.692626
+3	message tool	Hypothesis Testing	0.680668
+3	message	Hypothesis Testing	1029.344257
+3	solar system	Cognitive Load	164.60284
+3	mission control	Hypothesis Testing	6.990303
+3	mission control	Hypothesis Testing	0.654235
+3	mission control	Hypothesis Testing	36.860542
+3	solar system	Cognitive Load	21.854985
+3	solar system	Cognitive Load	156.96234
+3	solar system	Cognitive Load	481.753723
+3	mission control	Hypothesis Testing	3.824452
+3	solar system	Cognitive Load	601.541159
+3	solar system	Cognitive Load	698.0645
+3	mission control	Hypothesis Testing	0.333773
+3	mission control	Hypothesis Testing	0.454441
+3	alien database	Cognitive Load	63.868998
+3	spectra	Cognitive Load	10.113598
+3	mission control	Hypothesis Testing	0.328945
+3	mission control	Hypothesis Testing	0.479167
+3	mission control	Hypothesis Testing	29.457462
+3	alien database	Cognitive Load	200.812616
+3	spectra	Cognitive Load	38.326352
+3	mission control	Hypothesis Testing	17.740065
+3	message	Hypothesis Testing	1253.892861
+3	message	Hypothesis Testing	1252.352933
+3	mission control	Hypothesis Testing	0.457874
+3	mission control	Hypothesis Testing	0.480413
+3	mission control	Hypothesis Testing	17.573367
+3	mission control	Hypothesis Testing	15.230363
+3	probe design	Activities	15.240288
+3	mission control	Hypothesis Testing	29.416618
+3	alien database	Cognitive Load	172.666367
+3	probe design	Activities	92.333127
+3	probe launch	Activities	18.839039
+3	mission control	Hypothesis Testing	42.196184
+3	message	Hypothesis Testing	639.703977
+3	probe launch	Activities	0.467377
+3	mission control	Hypothesis Testing	0.453619
+3	probe design	Activities	0.446036
+3	message	Hypothesis Testing	547.697573
+3	alien database	Cognitive Load	14.466526
+3	periodic table	Cognitive Load	7.860592
+3	concepts	Cognitive Load	3.171339
+3	solar system	Cognitive Load	11.837368
+3	spectra	Cognitive Load	1.932999
+3	missions	Cognitive Load	4.909347
+3	alien database	Cognitive Load	64.714976
+3	message	Hypothesis Testing	2416.725698
+3	alien database	Cognitive Load	1745.278313
+3	spectra	Cognitive Load	22.387897
+3	spectra	Cognitive Load	18.785961
+3	spectra	Cognitive Load	92.104885
+3	periodic table	Cognitive Load	17.135471
+3	alien database	Cognitive Load	887.498676
+3	spectra	Cognitive Load	60.785909
+3	periodic table	Cognitive Load	4.172836
+3	spectra	Cognitive Load	162.744377
+3	spectra	Cognitive Load	82.198144
+3	periodic table	Cognitive Load	81.340839
+3	spectra	Cognitive Load	27.675024
+3	alien database	Cognitive Load	44.764643
+3	spectra	Cognitive Load	20.804169
+3	mission control	Hypothesis Testing	24.165305
+3	probe design	Activities	0.362092
+3	probe design	Activities	195.715298
+3	mission control	Hypothesis Testing	59.005218
+3	message	Hypothesis Testing	77.889609
+4	probe design	Activities	0.008794
+4	probe design	Activities	0.459626
+4	probe design	Activities	526.827645
+4	missions	Cognitive Load	2.644016
+4	concepts	Cognitive Load	2.673522
+4	solar system	Cognitive Load	81.962807
+4	message	Hypothesis Testing	2385.66044
+4	alien database	Cognitive Load	47.542217
+4	solar system	Cognitive Load	278.158999
+4	mission control	Hypothesis Testing	0.281949
+4	mission control	Hypothesis Testing	242.683163
+4	message	Hypothesis Testing	1368.466968
+4	alien database	Cognitive Load	124.684923
+4	message	Hypothesis Testing	1203.367284
+4	message	Hypothesis Testing	1086.620564
+4	message	Hypothesis Testing	1056.746561
+4	message	Hypothesis Testing	961.056282
+4	alien database	Cognitive Load	4.450106
+4	message	Hypothesis Testing	659.672801
+4	alien database	Cognitive Load	17.330691
+4	mission control	Hypothesis Testing	70.341936
+4	solar system	Cognitive Load	222.106041
+4	alien database	Cognitive Load	276.072499
+4	solar system	Cognitive Load	239.446353
+4	mission control	Hypothesis Testing	1.264764
+4	mission control	Hypothesis Testing	0.460168
+4	mission control	Hypothesis Testing	175.195378
+4	periodic table	Cognitive Load	9.326335
+4	mission control	Hypothesis Testing	0.592474
+4	alien database	Cognitive Load	105.505954
+4	spectra	Cognitive Load	58.398533
+4	mission control	Hypothesis Testing	97.888192
+4	alien database	Cognitive Load	161.753208
+4	message	Hypothesis Testing	1576.009791
+4	probe design	Activities	178.472506
+4	probe launch	Activities	9.681217
+4	mission control	Hypothesis Testing	107.280802
+4	probe design	Activities	83.410604
+4	mission control	Hypothesis Testing	5.905379
+4	probe launch	Activities	22.206663
+4	mission control	Hypothesis Testing	91.626462
+4	probe design	Activities	89.22901
+4	probe design	Activities	3.71672
+4	message	Hypothesis Testing	283.63006
+4	probe launch	Activities	18.355318
+4	mission control	Hypothesis Testing	106.759025
+4	probe design	Activities	74.058709
+4	probe launch	Activities	21.751164
+4	mission control	Hypothesis Testing	6.93702
+4	mission control	Hypothesis Testing	44.99508
+4	alien database	Cognitive Load	7.739656
+4	probe design	Activities	0.45431
+4	probe design	Activities	118.911755
+4	probe launch	Activities	5.097791
+4	mission control	Hypothesis Testing	0.828953
+4	mission control	Hypothesis Testing	146.138998
+4	probe design	Activities	228.289864
+4	probe launch	Activities	1.251644
+4	probe launch	Activities	0.232794
+4	probe launch	Activities	5.617145
+4	mission control	Hypothesis Testing	0.15345
+4	mission control	Hypothesis Testing	0.460361
+4	mission control	Hypothesis Testing	0.190635
+4	message	Hypothesis Testing	448.786642
+4	mission control	Hypothesis Testing	0.220997
+4	mission control	Hypothesis Testing	90.441328
+4	alien database	Cognitive Load	60.899643
+4	probe launch	Activities	0.29461
+4	probe launch	Activities	0.375541
+4	probe launch	Activities	0.220355
+1	notebook	Cognitive Processing	2.390842
+1	probe launch	Activities	3.482508
+1	alien database	Cognitive Load	21.586566
+1	probe design	Activities	28.825091
+1	message tool	Hypothesis Testing	0.682512
+1	message	Hypothesis Testing	344.854614
+1	message tool	Hypothesis Testing	0.200011
+1	message	Hypothesis Testing	342.255497
+1	message tool	Hypothesis Testing	50.679199
+1	message	Hypothesis Testing	338.865604
+1	mission control	Hypothesis Testing	2.373848
+1	message tool	Hypothesis Testing	58.536963
+1	message	Hypothesis Testing	83.334077
+1	probe design	Activities	2.702169
+1	alien database	Cognitive Load	19.607912
+1	alien database	Cognitive Load	23.352461
+1	notebook	Cognitive Processing	2.752743
+1	alien database	Cognitive Load	1996.563142
+1	notebook	Cognitive Processing	2.946282
+1	periodic table	Cognitive Load	44.519745
+1	concepts	Cognitive Load	1931.553575
+1	alien database	Cognitive Load	108.42329
+1	periodic table	Cognitive Load	3.43181
+1	periodic table	Cognitive Load	8.074878
+1	spectra	Cognitive Load	4.416885
+1	missions	Cognitive Load	75.538163
+2	alien database	Cognitive Load	416.62688
+2	spectra	Cognitive Load	33.781151
+2	probe design	Activities	14.944355
+2	probe launch	Activities	3.207125
+2	alien database	Cognitive Load	738.613253
+2	spectra	Cognitive Load	42.662041
+2	periodic table	Cognitive Load	8.547703
+2	concepts	Cognitive Load	209.757456
+2	spectra	Cognitive Load	19.060757
+2	spectra	Cognitive Load	24.454933
+2	spectra	Cognitive Load	29.468244
+2	probe design	Activities	44.422652
+2	solar system	Cognitive Load	121.343925
+2	alien database	Cognitive Load	1156.253691
+2	spectra	Cognitive Load	32.97693
+2	periodic table	Cognitive Load	21.107597
+2	solar system	Cognitive Load	751.787893
+2	probe design	Activities	195.293619
+2	mission control	Hypothesis Testing	4.02096
+2	mission control	Hypothesis Testing	2.60652
+2	missions	Cognitive Load	58.464723
+2	probe design	Activities	10.05545
+2	probe launch	Activities	13.550606
+2	probe launch	Activities	153.749801
+2	solar system	Cognitive Load	106.521104
+2	alien database	Cognitive Load	417.517608
+2	solar system	Cognitive Load	210.052834
+2	probe design	Activities	1002.176437
+2	alien database	Cognitive Load	6.556787
+2	probe design	Activities	135.27056
+2	probe launch	Activities	20.816936
+2	mission control	Hypothesis Testing	249.341137
+2	alien database	Cognitive Load	1904.051111
+2	solar system	Cognitive Load	308.218076
+2	solar system	Cognitive Load	331.590118
+2	solar system	Cognitive Load	608.78608
+2	spectra	Cognitive Load	244.69238
+2	spectra	Cognitive Load	104.841498
+2	periodic table	Cognitive Load	30.076644
+2	spectra	Cognitive Load	30.197014
+2	periodic table	Cognitive Load	8.886588
+3	alien database	Cognitive Load	2090.168385
+3	solar system	Cognitive Load	2058.861201
+3	solar system	Cognitive Load	5.413095
+3	alien database	Cognitive Load	2086.400537
+3	solar system	Cognitive Load	1966.425632
+3	mission control	Hypothesis Testing	0.321193
+3	mission control	Hypothesis Testing	0.445268
+3	mission control	Hypothesis Testing	0.446273
+3	mission control	Hypothesis Testing	93.932973
+3	alien database	Cognitive Load	1494.122686
+3	concepts	Cognitive Load	1159.099797
+3	alien database	Cognitive Load	2396.602323
+3	spectra	Cognitive Load	828.206054
+4	alien database	Cognitive Load	2402.419391
+4	spectra	Cognitive Load	118.405693
+4	solar system	Cognitive Load	571.849643
+4	solar system	Cognitive Load	847.554337
+4	spectra	Cognitive Load	19.309466
+4	probe design	Activities	0.480209
+4	probe design	Activities	0.420551
+4	probe design	Activities	220.575983
+4	probe launch	Activities	0.237611
+4	probe launch	Activities	0.348686
+4	probe launch	Activities	0.23846
+4	probe launch	Activities	18.680841
+4	mission control	Hypothesis Testing	565.000937
+4	missions	Cognitive Load	4.961138
+4	solar system	Cognitive Load	416.691818
+4	alien database	Cognitive Load	1027.46285
+4	solar system	Cognitive Load	144.588222
+4	probe design	Activities	0.477969
+4	probe design	Activities	146.009167
+4	probe design	Activities	2.557143
+4	probe design	Activities	0.233415
+4	probe design	Activities	316.863537
+4	probe launch	Activities	0.472223
+4	probe launch	Activities	40.132644
+4	mission control	Hypothesis Testing	0.478531
+4	mission control	Hypothesis Testing	4.651101
+4	message	Hypothesis Testing	451.61942
+1	concepts	Cognitive Load	534.970627
+1	probe launch	Activities	1.99399
+1	message tool	Hypothesis Testing	324.620157
+1	message	Hypothesis Testing	324.607264
+1	notebook	Cognitive Processing	11.739586
+1	solar system	Cognitive Load	4.416844
+1	solar system	Cognitive Load	50.569516
+1	message	Hypothesis Testing	2150.732196
+1	message tool	Hypothesis Testing	1.979137
+1	message tool	Hypothesis Testing	1.311825
+1	message	Hypothesis Testing	2146.509433
+1	message tool	Hypothesis Testing	1.09465
+1	message	Hypothesis Testing	2143.298632
+1	message tool	Hypothesis Testing	0.557416
+1	message	Hypothesis Testing	2140.661783
+1	message tool	Hypothesis Testing	1.411619
+1	message	Hypothesis Testing	2138.468379
+1	message tool	Hypothesis Testing	0.681438
+1	message	Hypothesis Testing	2135.192104
+1	message tool	Hypothesis Testing	0.896849
+1	message	Hypothesis Testing	2132.20861
+1	probe launch	Activities	2.45916
+1	mission control	Hypothesis Testing	1.736921
+1	mission control	Hypothesis Testing	1.321615
+1	alien database	Cognitive Load	19.517519
+1	alien database	Cognitive Load	8.190235
+1	probe launch	Activities	1.687004
+1	probe design	Activities	1.936258
+1	mission control	Hypothesis Testing	3.683047
+1	mission control	Hypothesis Testing	0.256958
+1	probe design	Activities	1.64382
+1	alien database	Cognitive Load	29.005421
+1	mission control	Hypothesis Testing	11.879277
+1	mission control	Hypothesis Testing	3.550332
+1	alien database	Cognitive Load	45.791718
+1	probe launch	Activities	0.584046
+1	notebook	Cognitive Processing	556.375826
+1	alien database	Cognitive Load	480.167455
+1	solar system	Cognitive Load	71.358303
+1	missions	Cognitive Load	56.43694
+1	message tool	Hypothesis Testing	0.359792
+1	message	Hypothesis Testing	345.294014
+1	message tool	Hypothesis Testing	2.389497
+1	message	Hypothesis Testing	315.995789
+1	notebook	Cognitive Processing	23.146266
+1	concepts	Cognitive Load	2.791137
+1	missions	Cognitive Load	4.054139
+1	concepts	Cognitive Load	75.699525
+1	concepts	Cognitive Load	1.798546
+1	periodic table	Cognitive Load	38.989416
+1	spectra	Cognitive Load	4.16518
+1	message tool	Hypothesis Testing	0.347691
+1	message	Hypothesis Testing	144.746504
+1	probe design	Activities	1.621738
+1	alien database	Cognitive Load	17.402923
+1	missions	Cognitive Load	50.577777
+2	solar system	Cognitive Load	132.90896
+2	notebook	Cognitive Processing	72.083091
+2	alien database	Cognitive Load	53.68643
+2	alien database	Cognitive Load	1383.30078
+2	alien database	Cognitive Load	279.952431
+2	alien database	Cognitive Load	1180.482299
+2	alien database	Cognitive Load	8.666905
+2	probe launch	Activities	2.039301
+2	notebook	Cognitive Processing	238.69038
+2	notebook	Cognitive Processing	34.719764
+2	concepts	Cognitive Load	22.030176
+2	mission control	Hypothesis Testing	0.366721
+2	mission control	Hypothesis Testing	0.227923
+2	probe launch	Activities	2.914285
+2	probe design	Activities	60.939371
+2	probe design	Activities	452.551981
+2	probe design	Activities	69.716915
+2	alien database	Cognitive Load	100.194779
+2	probe design	Activities	4.504424
+2	probe design	Activities	578.162334
+2	solar system	Cognitive Load	240.720781
+2	spectra	Cognitive Load	3.312894
+2	concepts	Cognitive Load	2.499317
+2	solar system	Cognitive Load	189.306556
+2	missions	Cognitive Load	5.211573
+2	alien database	Cognitive Load	708.568977
+2	notebook	Cognitive Processing	10.992908
+2	solar system	Cognitive Load	168.396548
+2	probe design	Activities	717.676827
+3	solar system	Cognitive Load	801.62363
+3	solar system	Cognitive Load	945.808957
+3	alien database	Cognitive Load	33.332455
+3	solar system	Cognitive Load	1921.864179
+3	alien database	Cognitive Load	16.78835
+3	solar system	Cognitive Load	1665.795777
+3	alien database	Cognitive Load	97.719437
+3	alien database	Cognitive Load	1080.616342
+4	alien database	Cognitive Load	1676.398726
+4	solar system	Cognitive Load	20.50355
+4	missions	Cognitive Load	17.104938
+4	concepts	Cognitive Load	12.834908
+4	alien database	Cognitive Load	350.825664
+4	probe design	Activities	0.502741
+4	probe design	Activities	490.313629
+4	probe design	Activities	458.575538
+4	probe design	Activities	350.555096
+4	message	Hypothesis Testing	1018.831106
+4	probe design	Activities	439.624306
+4	probe launch	Activities	0.363356
+4	probe launch	Activities	158.782373
+4	mission control	Hypothesis Testing	0.143098
+4	mission control	Hypothesis Testing	0.146833
+4	mission control	Hypothesis Testing	0.134912
+4	probe launch	Activities	4.308187
+4	probe design	Activities	0.424046
+4	probe design	Activities	8.448791
+4	mission control	Hypothesis Testing	7.453437
+1	missions	Cognitive Load	5.187465
+1	notebook	Cognitive Processing	9.395876
+1	solar system	Cognitive Load	88.649465
+1	alien database	Cognitive Load	5.232135
+1	probe design	Activities	205.764539
+1	message tool	Hypothesis Testing	0.089562
+1	probe design	Activities	0.68148
+1	probe design	Activities	0.428866
+1	probe design	Activities	4.856568
+1	alien database	Cognitive Load	14.962917
+1	message	Hypothesis Testing	244.696273
+1	message tool	Hypothesis Testing	244.694755
+1	missions	Cognitive Load	22.585222
+2	alien database	Cognitive Load	13.076673
+2	notebook	Cognitive Processing	901.089152
+2	solar system	Cognitive Load	17.100003
+2	alien database	Cognitive Load	1388.177035
+2	notebook	Cognitive Processing	667.639503
+2	solar system	Cognitive Load	3.817367
+2	notebook	Cognitive Processing	14.430388
+2	notebook	Cognitive Processing	557.027435
+2	notebook	Cognitive Processing	44.161242
+2	probe design	Activities	184.959871
+2	notebook	Cognitive Processing	27.475482
+2	alien database	Cognitive Load	1709.629576
+2	alien database	Cognitive Load	569.842269
+2	probe design	Activities	18.797369
+2	message tool	Hypothesis Testing	2.557681
+2	message	Hypothesis Testing	2.222172
+2	probe design	Activities	296.578354
+2	solar system	Cognitive Load	15.394305
+2	alien database	Cognitive Load	40.993102
+2	probe design	Activities	1059.124327
+2	missions	Cognitive Load	2.881766
+2	concepts	Cognitive Load	7.454218
+2	notebook	Cognitive Processing	15.098952
+2	alien database	Cognitive Load	63.401892
+2	probe design	Activities	306.724938
+2	probe launch	Activities	26.455908
+2	message tool	Hypothesis Testing	5.818828
+2	message	Hypothesis Testing	207.035577
+2	alien database	Cognitive Load	193.708342
+3	alien database	Cognitive Load	194.617579
+3	mission control	Hypothesis Testing	3.046107
+3	mission control	Hypothesis Testing	198.51341
+3	probe launch	Activities	2.584834
+3	missions	Cognitive Load	10.54089
+3	solar system	Cognitive Load	1167.042969
+3	solar system	Cognitive Load	1745.952275
+3	solar system	Cognitive Load	107.039061
+3	mission control	Hypothesis Testing	2.136475
+3	solar system	Cognitive Load	439.334648
+3	alien database	Cognitive Load	58.768945
+3	solar system	Cognitive Load	1275.701111
+3	alien database	Cognitive Load	2265.55235
+3	solar system	Cognitive Load	1245.860606
+3	solar system	Cognitive Load	192.269207
+4	message	Hypothesis Testing	2721.101488
+4	message	Hypothesis Testing	2715.713608
+4	alien database	Cognitive Load	2666.843681
+4	solar system	Cognitive Load	1882.666134
+4	solar system	Cognitive Load	1683.025552
+4	alien database	Cognitive Load	2109.499909
+4	concepts	Cognitive Load	63.36279
+4	solar system	Cognitive Load	11.632833
+4	alien database	Cognitive Load	110.650671
+4	probe design	Activities	0.544781
+4	probe design	Activities	0.875765
+4	alien database	Cognitive Load	519.32771
+4	probe design	Activities	291.098795
+4	probe design	Activities	202.352519
+4	probe design	Activities	282.191385
+4	probe launch	Activities	0.344975
+4	probe launch	Activities	23.862464
+4	mission control	Hypothesis Testing	0.511402
+4	mission control	Hypothesis Testing	0.595388
+4	mission control	Hypothesis Testing	31.034474
+4	probe design	Activities	56.838556
+4	mission control	Hypothesis Testing	0.219237
+4	mission control	Hypothesis Testing	0.504996
+4	mission control	Hypothesis Testing	164.148225
+4	solar system	Cognitive Load	176.794577
+4	probe design	Activities	898.366105
+4	solar system	Cognitive Load	224.961481
+4	solar system	Cognitive Load	647.806591
+1	alien database	Cognitive Load	8.86498
+1	mission control	Hypothesis Testing	3.251706
+1	mission control	Hypothesis Testing	1.77781
+1	alien database	Cognitive Load	66.724146
+1	probe launch	Activities	2.274622
+1	spectra	Cognitive Load	4.64045
+1	mission control	Hypothesis Testing	1.051304
+1	mission control	Hypothesis Testing	1.585324
+1	periodic table	Cognitive Load	3.445193
+1	probe design	Activities	67.464396
+1	alien database	Cognitive Load	16.405676
+1	alien database	Cognitive Load	5.994637
+1	probe design	Activities	0.198012
+1	message tool	Hypothesis Testing	73.887519
+1	message	Hypothesis Testing	371.079993
+1	periodic table	Cognitive Load	4.160987
+1	message tool	Hypothesis Testing	0.938826
+1	message	Hypothesis Testing	269.948163
+1	message tool	Hypothesis Testing	0.774959
+1	message	Hypothesis Testing	265.979124
+1	probe launch	Activities	0.595327
+1	mission control	Hypothesis Testing	7.011636
+1	notebook	Cognitive Processing	4.147346
+1	solar system	Cognitive Load	18.998487
+1	missions	Cognitive Load	9.977421
+1	concepts	Cognitive Load	12.010192
+1	probe launch	Activities	16.306729
+1	mission control	Hypothesis Testing	7.875223
+1	mission control	Hypothesis Testing	17.686567
+1	mission control	Hypothesis Testing	5.126824
+1	mission control	Hypothesis Testing	0.202534
+1	probe design	Activities	2.689837
+1	mission control	Hypothesis Testing	9.976485
+1	alien database	Cognitive Load	39.621514
+1	probe launch	Activities	2.928446
+1	mission control	Hypothesis Testing	24.440636
+1	probe design	Activities	23.792723
+1	probe launch	Activities	15.656701
+1	mission control	Hypothesis Testing	9.032659
+1	mission control	Hypothesis Testing	1.980158
+1	message tool	Hypothesis Testing	7.913905
+1	message	Hypothesis Testing	176.219251
+1	mission control	Hypothesis Testing	7.346153
+1	mission control	Hypothesis Testing	0.711877
+1	alien database	Cognitive Load	2.705798
+2	alien database	Cognitive Load	121.688001
+2	alien database	Cognitive Load	9.192857
+2	mission control	Hypothesis Testing	16.757023
+2	mission control	Hypothesis Testing	2.869073
+2	alien database	Cognitive Load	839.802964
+2	mission control	Hypothesis Testing	4.836898
+2	probe design	Activities	16.020941
+2	probe design	Activities	17.531477
+2	probe design	Activities	32.108376
+2	probe design	Activities	70.331929
+2	probe design	Activities	75.56309
+2	probe launch	Activities	29.425812
+2	mission control	Hypothesis Testing	3.820777
+2	mission control	Hypothesis Testing	3.192236
+2	mission control	Hypothesis Testing	27.451551
+2	probe design	Activities	2.29399
+2	probe design	Activities	0.354093
+2	probe design	Activities	2.47297
+2	probe design	Activities	0.345934
+2	probe design	Activities	0.295963
+2	probe design	Activities	189.339496
+2	probe design	Activities	10.34217
+2	mission control	Hypothesis Testing	13.577564
+2	probe design	Activities	119.580857
+2	probe design	Activities	5.450229
+2	alien database	Cognitive Load	202.933749
+2	alien database	Cognitive Load	895.037459
+2	solar system	Cognitive Load	2.473217
+2	spectra	Cognitive Load	3.233535
+2	concepts	Cognitive Load	2.605699
+2	missions	Cognitive Load	10.010683
+2	probe design	Activities	491.401958
+2	alien database	Cognitive Load	40.918194
+2	alien database	Cognitive Load	54.212738
+2	probe design	Activities	296.897106
+2	mission control	Hypothesis Testing	30.752561
+2	mission control	Hypothesis Testing	1.363756
+2	probe design	Activities	1440.564529
+2	probe design	Activities	3.149452
+2	probe design	Activities	174.998442
+2	probe design	Activities	55.688848
+2	probe design	Activities	52.805097
+2	probe design	Activities	74.450759
+2	probe launch	Activities	23.719843
+2	mission control	Hypothesis Testing	60.490458
+2	probe design	Activities	7.368398
+2	probe design	Activities	219.054834
+2	probe design	Activities	111.068522
+2	probe design	Activities	165.316115
+2	probe design	Activities	3.551113
+2	probe launch	Activities	24.872803
+2	mission control	Hypothesis Testing	28.619169
+2	probe design	Activities	102.989767
+2	probe launch	Activities	23.203405
+2	mission control	Hypothesis Testing	42.223502
+2	probe design	Activities	145.261669
+2	message tool	Hypothesis Testing	0.066778
+2	message tool	Hypothesis Testing	0.230963
+2	message	Hypothesis Testing	770.919194
+2	message tool	Hypothesis Testing	2.006951
+2	message	Hypothesis Testing	761.649672
+2	probe design	Activities	43.682761
+2	probe launch	Activities	0.082893
+2	probe launch	Activities	22.918403
+2	mission control	Hypothesis Testing	63.554702
+2	missions	Cognitive Load	14.12489
+2	solar system	Cognitive Load	3.622388
+2	message	Hypothesis Testing	155.524031
+2	message tool	Hypothesis Testing	7.464174
+2	probe design	Activities	1.582892
+2	probe design	Activities	104.351056
+3	mission control	Hypothesis Testing	2.267698
+3	mission control	Hypothesis Testing	2.775345
+3	mission control	Hypothesis Testing	2.073216
+3	mission control	Hypothesis Testing	3.148232
+3	mission control	Hypothesis Testing	2.057877
+3	mission control	Hypothesis Testing	3.187522
+3	mission control	Hypothesis Testing	316.700362
+3	probe design	Activities	56.279714
+3	probe design	Activities	15.849698
+3	probe design	Activities	107.80908
+3	probe launch	Activities	16.515527
+3	mission control	Hypothesis Testing	27.980434
+3	mission control	Hypothesis Testing	6.367119
+3	solar system	Cognitive Load	486.544267
+3	probe design	Activities	143.380218
+3	solar system	Cognitive Load	879.87979
+3	probe design	Activities	0.28167
+3	solar system	Cognitive Load	1635.263797
+3	probe design	Activities	0.252918
+3	message	Hypothesis Testing	1028.957873
+3	mission control	Hypothesis Testing	1.662491
+3	mission control	Hypothesis Testing	0.482936
+3	mission control	Hypothesis Testing	0.459116
+3	solar system	Cognitive Load	915.143997
+3	mission control	Hypothesis Testing	25.857795
+3	missions	Cognitive Load	3.238508
+3	solar system	Cognitive Load	3.013074
+3	alien database	Cognitive Load	893.089644
+3	alien database	Cognitive Load	711.685551
+3	spectra	Cognitive Load	38.520598
+3	alien database	Cognitive Load	787.101238
+3	spectra	Cognitive Load	89.383696
+3	spectra	Cognitive Load	23.826843
+3	alien database	Cognitive Load	164.126242
+3	solar system	Cognitive Load	1.321458
+3	missions	Cognitive Load	1.725059
+3	periodic table	Cognitive Load	3.049525
+3	spectra	Cognitive Load	100.269739
+3	alien database	Cognitive Load	611.328576
+3	spectra	Cognitive Load	128.268442
+3	periodic table	Cognitive Load	17.409948
+3	alien database	Cognitive Load	194.736086
+4	alien database	Cognitive Load	391.209036
+4	alien database	Cognitive Load	145.478043
+4	solar system	Cognitive Load	958.411096
+4	missions	Cognitive Load	2.722108
+4	missions	Cognitive Load	3.580453
+4	solar system	Cognitive Load	310.530996
+4	mission control	Hypothesis Testing	0.504099
+4	mission control	Hypothesis Testing	23.60004
+4	concepts	Cognitive Load	3.524346
+4	alien database	Cognitive Load	901.752977
+4	spectra	Cognitive Load	327.594324
+4	alien database	Cognitive Load	1337.801016
+4	spectra	Cognitive Load	136.201452
+4	periodic table	Cognitive Load	27.192271
+4	alien database	Cognitive Load	920.201169
+4	spectra	Cognitive Load	80.887746
+4	periodic table	Cognitive Load	62.188796
+4	solar system	Cognitive Load	51.134659
+4	mission control	Hypothesis Testing	43.932487
+4	mission control	Hypothesis Testing	43.13046
+4	mission control	Hypothesis Testing	0.361463
+4	probe design	Activities	145.917523
+4	probe design	Activities	133.11018
+4	probe launch	Activities	0.207921
+4	probe launch	Activities	12.739291
+4	probe launch	Activities	0.15874
+4	probe launch	Activities	0.435949
+4	mission control	Hypothesis Testing	34.004581
+4	probe launch	Activities	0.588056
+4	probe launch	Activities	12.416514
+4	mission control	Hypothesis Testing	64.018334
+4	probe design	Activities	0.224148
+4	probe design	Activities	76.526765
+4	probe design	Activities	53.2291
+4	probe launch	Activities	8.668455
+4	mission control	Hypothesis Testing	63.715503
+4	missions	Cognitive Load	33.088919
+4	message	Hypothesis Testing	1127.17602
+4	message	Hypothesis Testing	1122.193026
+4	message	Hypothesis Testing	1062.657987
+4	mission control	Hypothesis Testing	39.80301
+4	probe design	Activities	0.399756
+4	probe design	Activities	53.544756
+4	alien database	Cognitive Load	244.490386
+4	message	Hypothesis Testing	613.288403
+4	probe design	Activities	0.46916
+4	probe design	Activities	84.243841
+4	probe launch	Activities	0.472295
+4	probe launch	Activities	0.441524
+4	probe launch	Activities	14.493099
+4	probe design	Activities	118.138913
+4	probe design	Activities	0.564357
+4	probe design	Activities	94.071866
+4	probe design	Activities	0.213156
+4	probe launch	Activities	0.406081
+4	probe launch	Activities	0.453482
+4	probe launch	Activities	1.001023
+4	probe launch	Activities	16.791734
+4	mission control	Hypothesis Testing	0.451975
+4	mission control	Hypothesis Testing	84.318164
+1	probe design	Activities	0.305602
+1	probe design	Activities	627.754761
+1	alien database	Cognitive Load	9.838093
+1	probe launch	Activities	2.544825
+1	mission control	Hypothesis Testing	1.571914
+1	mission control	Hypothesis Testing	1.457152
+1	message tool	Hypothesis Testing	19.432047
+1	message	Hypothesis Testing	368.892342
+1	notebook	Cognitive Processing	2.648129
+1	message tool	Hypothesis Testing	92.484178
+1	message	Hypothesis Testing	167.323196
+1	message tool	Hypothesis Testing	0.2508
+1	message	Hypothesis Testing	49.430272
+1	alien database	Cognitive Load	39.435681
+1	notebook	Cognitive Processing	4.536021
+1	notebook	Cognitive Processing	4.47812
+1	message tool	Hypothesis Testing	8.611617
+1	message	Hypothesis Testing	2232.067177
+1	mission control	Hypothesis Testing	1.535456
+1	probe design	Activities	1.821744
+1	alien database	Cognitive Load	94.586936
+1	concepts	Cognitive Load	6.414666
+1	alien database	Cognitive Load	191.370873
+1	alien database	Cognitive Load	20.159238
+1	probe launch	Activities	7.779267
+1	alien database	Cognitive Load	15.562511
+1	probe design	Activities	10.586408
+1	probe launch	Activities	7.319147
+1	notebook	Cognitive Processing	723.495644
+1	alien database	Cognitive Load	49.976999
+1	concepts	Cognitive Load	7.651967
+1	missions	Cognitive Load	7.464684
+1	concepts	Cognitive Load	507.046798
+1	concepts	Cognitive Load	368.839675
+1	concepts	Cognitive Load	301.878766
+1	concepts	Cognitive Load	186.748149
+1	missions	Cognitive Load	89.803644
+1	missions	Cognitive Load	53.403627
+2	alien database	Cognitive Load	281.816483
+2	solar system	Cognitive Load	4.736136
+2	spectra	Cognitive Load	7.064426
+2	periodic table	Cognitive Load	2.450188
+2	mission control	Hypothesis Testing	1.657406
+2	probe design	Activities	1.494338
+2	concepts	Cognitive Load	2.807595
+2	missions	Cognitive Load	3.008081
+2	solar system	Cognitive Load	11.973058
+2	solar system	Cognitive Load	3.305851
+2	notebook	Cognitive Processing	8.924511
+2	message tool	Hypothesis Testing	6.623606
+2	message	Hypothesis Testing	1415.900941
+2	alien database	Cognitive Load	444.664579
+2	spectra	Cognitive Load	257.142489
+2	periodic table	Cognitive Load	12.161533
+2	solar system	Cognitive Load	31.706546
+2	spectra	Cognitive Load	65.875902
+2	alien database	Cognitive Load	907.414782
+2	alien database	Cognitive Load	1641.55212
+2	spectra	Cognitive Load	86.399354
+2	probe design	Activities	550.840361
+2	probe launch	Activities	45.759552
+2	mission control	Hypothesis Testing	236.69267
+2	probe design	Activities	210.026034
+2	message tool	Hypothesis Testing	0.424117
+2	message	Hypothesis Testing	723.888061
+2	probe launch	Activities	14.872102
+2	mission control	Hypothesis Testing	58.107641
+2	probe design	Activities	115.675746
+2	probe launch	Activities	13.163607
+2	mission control	Hypothesis Testing	66.775646
+2	probe design	Activities	2.251514
+2	probe design	Activities	0.429452
+2	probe design	Activities	128.993561
+2	probe design	Activities	58.265267
+2	probe launch	Activities	2.571121
+2	probe launch	Activities	0.481675
+2	probe launch	Activities	23.355637
+2	mission control	Hypothesis Testing	3.092605
+2	mission control	Hypothesis Testing	0.618876
+2	mission control	Hypothesis Testing	4.230029
+2	mission control	Hypothesis Testing	0.320037
+2	mission control	Hypothesis Testing	5.966888
+2	mission control	Hypothesis Testing	80.847707
+2	alien database	Cognitive Load	39.352617
+2	probe design	Activities	167.726313
+2	probe design	Activities	66.265991
+2	probe launch	Activities	13.588509
+2	mission control	Hypothesis Testing	57.599693
+2	probe design	Activities	123.669873
+3	message	Hypothesis Testing	272.904962
+3	probe design	Activities	186.078902
+3	probe launch	Activities	0.45763
+3	probe launch	Activities	0.41551
+3	probe launch	Activities	21.308288
+3	mission control	Hypothesis Testing	0.470879
+3	mission control	Hypothesis Testing	0.480748
+3	mission control	Hypothesis Testing	7.448734
+1	message tool	Hypothesis Testing	0.146485
+1	message	Hypothesis Testing	86.782022
+1	message tool	Hypothesis Testing	81.986022
+1	message	Hypothesis Testing	81.954892
+1	mission control	Hypothesis Testing	19.351442
+1	probe launch	Activities	2.355852
+1	alien database	Cognitive Load	63.568209
+1	probe design	Activities	991.284526
+1	missions	Cognitive Load	12.762071
+1	concepts	Cognitive Load	935.383518
+1	periodic table	Cognitive Load	4.037207
+1	notebook	Cognitive Processing	2.901144
+1	solar system	Cognitive Load	4.873104
+1	message tool	Hypothesis Testing	0.070097
+1	message	Hypothesis Testing	58.69425
+1	message tool	Hypothesis Testing	0.151112
+1	message	Hypothesis Testing	57.649175
+1	message tool	Hypothesis Testing	0.099955
+1	message	Hypothesis Testing	6.103165
+1	message tool	Hypothesis Testing	0.010776
+2	alien database	Cognitive Load	1283.25893
+2	alien database	Cognitive Load	1312.880631
+2	probe launch	Activities	8.466766
+2	probe design	Activities	223.889925
+2	probe design	Activities	1.494952
+2	probe design	Activities	6.818284
+2	probe design	Activities	403.507429
+2	probe design	Activities	1.557755
+2	probe launch	Activities	9.763554
+2	alien database	Cognitive Load	30.242429
+2	mission control	Hypothesis Testing	24.617564
+2	mission control	Hypothesis Testing	3.040245
+2	probe design	Activities	402.76398
+2	probe design	Activities	193.226095
+2	notebook	Cognitive Processing	106.604757
+2	missions	Cognitive Load	47.265721
+2	mission control	Hypothesis Testing	90.607404
+2	spectra	Cognitive Load	4.729604
+2	probe design	Activities	162.861465
+2	probe launch	Activities	10.193216
+2	mission control	Hypothesis Testing	134.265776
+2	mission control	Hypothesis Testing	2.844382
+2	mission control	Hypothesis Testing	12.524315
+2	probe design	Activities	575.245646
+2	probe design	Activities	0.064975
+2	probe design	Activities	177.633065
+2	message tool	Hypothesis Testing	0.263741
+2	message	Hypothesis Testing	1350.19204
+2	probe design	Activities	24.342744
+2	probe design	Activities	6.638997
+2	probe design	Activities	84.845714
+2	probe launch	Activities	6.920612
+2	probe launch	Activities	1.959174
+2	mission control	Hypothesis Testing	154.282994
+2	probe design	Activities	74.26062
+2	alien database	Cognitive Load	9.843413
+2	mission control	Hypothesis Testing	2.156117
+2	probe design	Activities	310.225511
+2	probe design	Activities	0.132816
+2	probe design	Activities	141.650292
+2	probe launch	Activities	8.119889
+2	mission control	Hypothesis Testing	189.960056
+2	spectra	Cognitive Load	38.200159
+2	mission control	Hypothesis Testing	109.311638
+2	spectra	Cognitive Load	54.569224
+2	alien database	Cognitive Load	4.317648
+3	mission control	Hypothesis Testing	204.063824
+3	solar system	Cognitive Load	128.072782
+3	alien database	Cognitive Load	6.388721
+3	probe design	Activities	0.115098
+3	probe design	Activities	264.37309
+3	probe launch	Activities	32.519917
+3	mission control	Hypothesis Testing	3.555426
+3	mission control	Hypothesis Testing	403.11439
+3	periodic table	Cognitive Load	64.661603
+3	mission control	Hypothesis Testing	0.215811
+3	mission control	Hypothesis Testing	641.828874
+3	probe design	Activities	0.385288
+3	probe design	Activities	95.974603
+3	probe launch	Activities	9.384919
+3	mission control	Hypothesis Testing	73.080363
+3	message	Hypothesis Testing	311.510475
+3	message	Hypothesis Testing	71.724911
+4	probe design	Activities	3.553991
+4	probe design	Activities	0.322485
+4	probe design	Activities	0.494877
+4	probe design	Activities	0.729767
+4	probe design	Activities	0.442828
+4	probe design	Activities	123.221594
+4	mission control	Hypothesis Testing	35.779052
+4	mission control	Hypothesis Testing	2.037264
+4	mission control	Hypothesis Testing	1.437988
+4	mission control	Hypothesis Testing	0.208432
+4	mission control	Hypothesis Testing	0.177142
+4	mission control	Hypothesis Testing	0.18225
+4	probe design	Activities	292.177002
+4	probe launch	Activities	21.045756
+4	mission control	Hypothesis Testing	0.119006
+4	mission control	Hypothesis Testing	1093.229904
+4	spectra	Cognitive Load	7.462197
+4	periodic table	Cognitive Load	183.560632
+4	spectra	Cognitive Load	72.35967
+4	probe design	Activities	118.131767
+4	probe launch	Activities	0.484179
+4	probe launch	Activities	13.228884
+4	mission control	Hypothesis Testing	11.515269
+4	mission control	Hypothesis Testing	0.118104
+4	mission control	Hypothesis Testing	0.527067
+4	mission control	Hypothesis Testing	0.496377
+4	mission control	Hypothesis Testing	0.600119
+4	mission control	Hypothesis Testing	0.461237
+4	mission control	Hypothesis Testing	0.535887
+4	message	Hypothesis Testing	1397.829028
+4	alien database	Cognitive Load	924.751836
+4	alien database	Cognitive Load	283.469451
+4	message	Hypothesis Testing	1063.388795
+4	message	Hypothesis Testing	1058.146711
+4	message	Hypothesis Testing	1057.782042
+4	message	Hypothesis Testing	1052.150365
+4	message	Hypothesis Testing	1046.107227
+4	alien database	Cognitive Load	1023.440188
+4	spectra	Cognitive Load	55.590081
+4	periodic table	Cognitive Load	12.126022
+4	spectra	Cognitive Load	157.499399
+4	periodic table	Cognitive Load	71.62101
+4	spectra	Cognitive Load	69.315506
+4	solar system	Cognitive Load	11.196779
+1	mission control	Hypothesis Testing	5.504092
+1	mission control	Hypothesis Testing	3.943264
+1	mission control	Hypothesis Testing	3.784505
+1	probe launch	Activities	0.315096
+1	probe launch	Activities	0.358374
+1	alien database	Cognitive Load	6.183092
+1	message	Hypothesis Testing	0.016248
+1	message tool	Hypothesis Testing	126.013945
+1	message	Hypothesis Testing	2195.825639
+1	missions	Cognitive Load	64.75494
+1	alien database	Cognitive Load	9.308986
+1	probe design	Activities	4.637598
+1	probe launch	Activities	4.774105
+1	mission control	Hypothesis Testing	3.052768
+1	mission control	Hypothesis Testing	4.440947
+1	missions	Cognitive Load	8.950604
+1	concepts	Cognitive Load	830.947136
+1	message tool	Hypothesis Testing	936.616487
+1	message	Hypothesis Testing	1051.197821
+1	probe design	Activities	90.289027
+1	probe design	Activities	3.792093
+2	notebook	Cognitive Processing	1.974639
+2	solar system	Cognitive Load	68.749451
+2	notebook	Cognitive Processing	1242.452448
+2	solar system	Cognitive Load	28.821673
+2	solar system	Cognitive Load	1182.438201
+2	periodic table	Cognitive Load	9.962968
+2	spectra	Cognitive Load	2.957015
+2	concepts	Cognitive Load	3.50792
+2	solar system	Cognitive Load	4.141323
+2	missions	Cognitive Load	3.686938
+2	message tool	Hypothesis Testing	0.267938
+2	message	Hypothesis Testing	7.57729
+2	message tool	Hypothesis Testing	0.269232
+2	message	Hypothesis Testing	0.233409
+2	alien database	Cognitive Load	13.507259
+2	alien database	Cognitive Load	917.644404
+2	notebook	Cognitive Processing	5.197313
+2	solar system	Cognitive Load	3.539376
+2	concepts	Cognitive Load	2.447972
+2	spectra	Cognitive Load	136.56399
+2	periodic table	Cognitive Load	4.358097
+2	notebook	Cognitive Processing	152.264894
+2	probe design	Activities	15.588577
+2	solar system	Cognitive Load	524.698799
+2	notebook	Cognitive Processing	522.429461
+2	alien database	Cognitive Load	548.805494
+2	notebook	Cognitive Processing	225.977162
+2	solar system	Cognitive Load	6.596728
+2	notebook	Cognitive Processing	291.217807
+2	spectra	Cognitive Load	27.114764
+2	spectra	Cognitive Load	4.45234
+2	probe design	Activities	156.053713
+2	concepts	Cognitive Load	16.249914
+2	periodic table	Cognitive Load	3.843623
+2	solar system	Cognitive Load	50.216651
+2	notebook	Cognitive Processing	41.346173
+2	probe design	Activities	405.356215
+2	probe design	Activities	61.432345
+2	probe design	Activities	127.908195
+2	probe design	Activities	51.821358
+2	probe design	Activities	79.632892
+2	probe design	Activities	150.678838
+2	probe launch	Activities	15.724139
+2	mission control	Hypothesis Testing	43.40204
+2	probe design	Activities	4.210315
+2	mission control	Hypothesis Testing	169.756004
+2	notebook	Cognitive Processing	134.135944
+2	solar system	Cognitive Load	15.37109
+2	mission control	Hypothesis Testing	2.36529
+2	probe design	Activities	47.394353
+2	probe design	Activities	1869.381094
+2	alien database	Cognitive Load	389.547037
+2	notebook	Cognitive Processing	587.134774
+2	solar system	Cognitive Load	4.244214
+2	alien database	Cognitive Load	315.920277
+2	notebook	Cognitive Processing	72.180466
+2	alien database	Cognitive Load	201.373328
+2	notebook	Cognitive Processing	30.881692
+2	solar system	Cognitive Load	134.604221
+2	alien database	Cognitive Load	102.935818
+2	probe design	Activities	264.362244
+2	probe launch	Activities	6.328219
+2	mission control	Hypothesis Testing	10.137187
+3	alien database	Cognitive Load	4.195199
+3	solar system	Cognitive Load	940.902455
+3	notebook	Cognitive Processing	7.14485
+3	notebook	Cognitive Processing	21.07254
+3	mission control	Hypothesis Testing	528.581319
+3	periodic table	Cognitive Load	103.375958
+3	mission control	Hypothesis Testing	1.640313
+3	probe design	Activities	152.753
+3	probe launch	Activities	10.37261
+3	mission control	Hypothesis Testing	295.427153
+3	periodic table	Cognitive Load	69.266201
+3	mission control	Hypothesis Testing	0.156161
+3	solar system	Cognitive Load	32.20377
+3	mission control	Hypothesis Testing	244.9077
+3	solar system	Cognitive Load	359.159221
+3	solar system	Cognitive Load	298.030756
+3	probe design	Activities	59.828461
+3	probe launch	Activities	67.653831
+3	mission control	Hypothesis Testing	194.031826
+3	mission control	Hypothesis Testing	2.216814
+3	solar system	Cognitive Load	472.225045
+3	probe design	Activities	21.799004
+3	probe design	Activities	35.136865
+3	probe design	Activities	53.282434
+3	probe launch	Activities	12.600285
+3	probe launch	Activities	0.117369
+3	probe launch	Activities	0.16311
+3	mission control	Hypothesis Testing	4.796404
+3	mission control	Hypothesis Testing	0.304983
+3	mission control	Hypothesis Testing	0.54759
+3	mission control	Hypothesis Testing	0.460836
+3	mission control	Hypothesis Testing	1.959439
+3	alien database	Cognitive Load	3.14075
+3	probe design	Activities	1256.864642
+3	mission control	Hypothesis Testing	155.742775
+3	solar system	Cognitive Load	271.718851
+3	mission control	Hypothesis Testing	704.406354
+3	periodic table	Cognitive Load	170.683271
+3	alien database	Cognitive Load	276.295628
+3	probe design	Activities	81.049903
+3	alien database	Cognitive Load	388.897038
+4	notebook	Cognitive Processing	234.030682
+4	alien database	Cognitive Load	183.761234
+4	mission control	Hypothesis Testing	407.992806
+4	alien database	Cognitive Load	385.500976
+4	spectra	Cognitive Load	24.500952
+4	periodic table	Cognitive Load	51.177562
+4	mission control	Hypothesis Testing	470.190993
+4	alien database	Cognitive Load	670.130713
+4	spectra	Cognitive Load	18.450266
+4	spectra	Cognitive Load	201.207499
+4	mission control	Hypothesis Testing	6.454906
+1	notebook	Cognitive Processing	5.69046
+1	probe launch	Activities	3.782475
+1	alien database	Cognitive Load	14.171934
+1	message tool	Hypothesis Testing	81.007605
+1	message	Hypothesis Testing	2201.979402
+1	mission control	Hypothesis Testing	6.830442
+1	mission control	Hypothesis Testing	5.419739
+1	probe design	Activities	7.360421
+1	probe launch	Activities	2.465278
+1	alien database	Cognitive Load	9.55868
+1	missions	Cognitive Load	181.199161
+1	message tool	Hypothesis Testing	0.393842
+1	message	Hypothesis Testing	1793.903463
+1	message tool	Hypothesis Testing	0.211663
+1	message	Hypothesis Testing	835.444538
+1	message tool	Hypothesis Testing	342.609039
+1	message	Hypothesis Testing	827.505122
+1	message tool	Hypothesis Testing	1.284089
+1	message	Hypothesis Testing	483.288045
+1	mission control	Hypothesis Testing	2.7555
+1	alien database	Cognitive Load	9.70529
+1	concepts	Cognitive Load	13.869619
+1	message tool	Hypothesis Testing	0.412723
+1	message	Hypothesis Testing	352.661314
+1	message tool	Hypothesis Testing	0.326109
+1	message	Hypothesis Testing	343.19899
+1	probe design	Activities	25.327674
+1	spectra	Cognitive Load	10.513172
+1	probe design	Activities	1.608479
+1	mission control	Hypothesis Testing	4.231807
+2	notebook	Cognitive Processing	3.135676
+2	missions	Cognitive Load	22.407014
+2	concepts	Cognitive Load	11.472511
+2	periodic table	Cognitive Load	11.305521
+2	notebook	Cognitive Processing	3.788347
+2	solar system	Cognitive Load	9.545963
+2	spectra	Cognitive Load	14.285306
+2	probe design	Activities	4.018085
+2	alien database	Cognitive Load	1078.053427
+2	notebook	Cognitive Processing	31.029407
+2	notebook	Cognitive Processing	538.238934
+2	notebook	Cognitive Processing	8.420356
+2	alien database	Cognitive Load	1068.3423
+2	notebook	Cognitive Processing	52.133284
+2	spectra	Cognitive Load	25.908097
+2	probe design	Activities	27.838338
+2	alien database	Cognitive Load	282.652363
+2	solar system	Cognitive Load	80.549056
+2	solar system	Cognitive Load	4.470451
+2	alien database	Cognitive Load	64.548834
+2	notebook	Cognitive Processing	43.632683
+2	probe design	Activities	0.888975
+2	probe design	Activities	1.269079
+2	probe design	Activities	79.020841
+2	notebook	Cognitive Processing	3.142108
+2	mission control	Hypothesis Testing	1.903926
+2	alien database	Cognitive Load	1173.784633
+2	notebook	Cognitive Processing	68.6839
+2	notebook	Cognitive Processing	31.980133
+2	notebook	Cognitive Processing	156.339761
+2	notebook	Cognitive Processing	108.399264
+2	notebook	Cognitive Processing	2.79458
+2	notebook	Cognitive Processing	19.698591
+2	alien database	Cognitive Load	870.622378
+2	notebook	Cognitive Processing	6.983207
+2	notebook	Cognitive Processing	68.455154
+2	notebook	Cognitive Processing	180.377537
+2	notebook	Cognitive Processing	31.009122
+2	notebook	Cognitive Processing	16.703695
+2	spectra	Cognitive Load	142.902319
+2	notebook	Cognitive Processing	48.395158
+2	probe design	Activities	385.99565
+2	probe launch	Activities	56.341865
+2	probe design	Activities	4.448215
+2	probe design	Activities	292.683046
+2	probe design	Activities	47.21736
+2	probe launch	Activities	153.368419
+2	mission control	Hypothesis Testing	3.398838
+3	mission control	Hypothesis Testing	51.258896
+3	solar system	Cognitive Load	532.882088
+3	mission control	Hypothesis Testing	1315.426227
+3	solar system	Cognitive Load	1180.486353
+3	probe launch	Activities	2.719166
+3	probe launch	Activities	14.307661
+3	alien database	Cognitive Load	5.109716
+3	mission control	Hypothesis Testing	434.016837
+3	solar system	Cognitive Load	1178.503274
+3	mission control	Hypothesis Testing	4.369063
+3	probe launch	Activities	3.330563
+3	probe design	Activities	2.303346
+3	message tool	Hypothesis Testing	0.468465
+3	message	Hypothesis Testing	254.157439
+3	probe launch	Activities	0.89214
+3	probe design	Activities	150.757533
+3	probe launch	Activities	10.667575
+3	alien database	Cognitive Load	5.064455
+3	mission control	Hypothesis Testing	121.628848
+3	mission control	Hypothesis Testing	1.391038
+3	mission control	Hypothesis Testing	0.467686
+3	probe design	Activities	1.756567
+3	probe design	Activities	0.559012
+3	alien database	Cognitive Load	6.78583
+3	solar system	Cognitive Load	783.418192
+3	alien database	Cognitive Load	2128.42009
+3	notebook	Cognitive Processing	19.910638
+3	solar system	Cognitive Load	2015.543206
+4	message	Hypothesis Testing	2355.023121
+4	alien database	Cognitive Load	295.417338
+4	alien database	Cognitive Load	2038.291811
+4	spectra	Cognitive Load	22.452064
+4	mission control	Hypothesis Testing	0.373358
+4	mission control	Hypothesis Testing	0.510942
+4	alien database	Cognitive Load	2538.698054
+4	spectra	Cognitive Load	341.05974
+4	spectra	Cognitive Load	398.376503
+4	spectra	Cognitive Load	675.528591
+4	notebook	Cognitive Processing	227.259745
+4	solar system	Cognitive Load	222.337339
+4	spectra	Cognitive Load	184.329963
+4	solar system	Cognitive Load	82.119909
+4	solar system	Cognitive Load	442.64474
+4	alien database	Cognitive Load	37.748655
+1	alien database	Cognitive Load	3.301434
+1	message tool	Hypothesis Testing	92.97927
+1	message	Hypothesis Testing	92.942447
+1	message tool	Hypothesis Testing	3.10197
+1	message	Hypothesis Testing	2282.869162
+1	mission control	Hypothesis Testing	1.850904
+1	mission control	Hypothesis Testing	1.072468
+1	message	Hypothesis Testing	2232.143868
+1	message tool	Hypothesis Testing	6.620354
+1	missions	Cognitive Load	53.202127
+1	concepts	Cognitive Load	334.269696
+1	message tool	Hypothesis Testing	0.325157
+1	message	Hypothesis Testing	1794.27346
+1	message tool	Hypothesis Testing	898.765574
+1	message	Hypothesis Testing	1067.375993
+1	probe design	Activities	144.51762
+2	message tool	Hypothesis Testing	5.986605
+2	message	Hypothesis Testing	1077.292297
+2	message tool	Hypothesis Testing	0.233936
+2	message	Hypothesis Testing	1069.632308
+2	alien database	Cognitive Load	1052.428292
+2	alien database	Cognitive Load	1502.53613
+2	alien database	Cognitive Load	72.666264
+2	solar system	Cognitive Load	1434.955229
+2	probe design	Activities	73.553235
+2	probe design	Activities	134.302076
+2	probe design	Activities	496.570904
+2	message tool	Hypothesis Testing	0.467121
+2	message	Hypothesis Testing	1722.304483
+2	probe launch	Activities	25.608747
+2	mission control	Hypothesis Testing	16.119426
+2	probe design	Activities	93.355851
+2	mission control	Hypothesis Testing	518.926269
+2	probe design	Activities	973.313514
+2	probe launch	Activities	9.208599
+3	mission control	Hypothesis Testing	64.476094
+3	mission control	Hypothesis Testing	3.714108
+3	alien database	Cognitive Load	9.418172
+3	solar system	Cognitive Load	2022.045443
+3	message	Hypothesis Testing	1521.993988
+3	alien database	Cognitive Load	30.344236
+3	alien database	Cognitive Load	5.284266
+3	probe design	Activities	26.70081
+3	notebook	Cognitive Processing	2.783502
+3	solar system	Cognitive Load	1044.993667
+3	missions	Cognitive Load	4.107249
+3	concepts	Cognitive Load	2.481821
+3	periodic table	Cognitive Load	4.139553
+3	probe design	Activities	79.819757
+3	probe design	Activities	253.729731
+3	probe launch	Activities	10.226643
+3	probe launch	Activities	0.78549
+3	alien database	Cognitive Load	1931.056078
+4	mission control	Hypothesis Testing	0.287932
+4	mission control	Hypothesis Testing	428.049005
+4	periodic table	Cognitive Load	160.528751
+4	probe design	Activities	204.415488
+4	probe launch	Activities	14.400886
+4	probe design	Activities	155.968048
+4	probe launch	Activities	13.159527
+4	probe design	Activities	15.852519
+4	mission control	Hypothesis Testing	318.598717
+4	periodic table	Cognitive Load	73.967474
+4	message	Hypothesis Testing	490.974544
+4	probe design	Activities	209.188281
+4	alien database	Cognitive Load	31.416917
+4	mission control	Hypothesis Testing	0.049671
+4	mission control	Hypothesis Testing	0.796389
+4	mission control	Hypothesis Testing	0.858189
+4	mission control	Hypothesis Testing	0.466354
+4	mission control	Hypothesis Testing	82.096749
+4	alien database	Cognitive Load	2318.117492
+4	solar system	Cognitive Load	23.108185
+4	solar system	Cognitive Load	7.94456
+4	mission control	Hypothesis Testing	52.635909
+4	probe design	Activities	239.593752
+4	probe launch	Activities	8.880985
+4	mission control	Hypothesis Testing	0.844088
+4	mission control	Hypothesis Testing	195.894906
+4	periodic table	Cognitive Load	133.387876
+4	alien database	Cognitive Load	70.366127
+4	mission control	Hypothesis Testing	81.274456
+4	alien database	Cognitive Load	312.615672
+4	spectra	Cognitive Load	281.442529
+4	message	Hypothesis Testing	1061.812374
+1	probe design	Activities	5.887511
+1	message tool	Hypothesis Testing	45.584958
+1	message	Hypothesis Testing	54.153306
+1	message tool	Hypothesis Testing	0.331601
+1	message tool	Hypothesis Testing	82.2342
+1	message	Hypothesis Testing	2193.523716
+1	mission control	Hypothesis Testing	1.771092
+1	mission control	Hypothesis Testing	1.497529
+1	probe design	Activities	8.683406
+1	alien database	Cognitive Load	50.488993
+1	probe design	Activities	3.261806
+1	missions	Cognitive Load	1684.814327
+1	message	Hypothesis Testing	1098.632753
+1	message tool	Hypothesis Testing	89.596577
+1	message tool	Hypothesis Testing	642.065239
+1	message	Hypothesis Testing	997.546632
+1	alien database	Cognitive Load	8.336367
+1	probe design	Activities	1.037929
+1	probe launch	Activities	1.959029
+1	missions	Cognitive Load	12.818929
+1	message tool	Hypothesis Testing	4.740671
+1	message	Hypothesis Testing	150.323604
+1	message tool	Hypothesis Testing	7.228672
+1	message	Hypothesis Testing	138.048422
+1	mission control	Hypothesis Testing	3.458625
+1	probe design	Activities	1.272526
+2	alien database	Cognitive Load	213.352809
+2	notebook	Cognitive Processing	4.81258
+2	alien database	Cognitive Load	674.126745
+2	probe design	Activities	11.468719
+2	missions	Cognitive Load	158.466037
+2	solar system	Cognitive Load	14.395283
+2	probe design	Activities	0.276907
+2	probe design	Activities	0.573361
+2	alien database	Cognitive Load	38.256636
+2	alien database	Cognitive Load	1525.508377
+2	notebook	Cognitive Processing	3.538469
+2	alien database	Cognitive Load	650.69239
+2	spectra	Cognitive Load	13.799898
+2	alien database	Cognitive Load	228.218591
+2	probe design	Activities	25.008078
+2	probe design	Activities	3.152653
+2	probe design	Activities	1.910963
+2	probe design	Activities	22.635067
+2	missions	Cognitive Load	25.489616
+2	probe design	Activities	400.60271
+2	probe launch	Activities	16.99814
+2	mission control	Hypothesis Testing	116.620064
+2	mission control	Hypothesis Testing	243.098369
+2	alien database	Cognitive Load	481.976671
+2	spectra	Cognitive Load	80.918298
+2	notebook	Cognitive Processing	9.335635
+2	notebook	Cognitive Processing	247.738988
+2	mission control	Hypothesis Testing	179.652858
+2	missions	Cognitive Load	19.708141
+2	probe design	Activities	164.41496
+2	probe design	Activities	533.647225
+2	probe launch	Activities	41.355255
+2	probe launch	Activities	0.16712
+2	probe launch	Activities	2.258112
+2	probe design	Activities	211.477551
+2	probe design	Activities	1.844414
+2	probe launch	Activities	13.207554
+2	probe design	Activities	173.326478
+2	probe design	Activities	231.2848
+2	mission control	Hypothesis Testing	41.051556
+2	probe design	Activities	118.548633
+3	mission control	Hypothesis Testing	27.745804
+3	probe design	Activities	600.55105
+3	probe design	Activities	324.836954
+3	probe launch	Activities	5.924639
+3	message tool	Hypothesis Testing	0.550648
+3	message	Hypothesis Testing	1078.513808
+3	probe design	Activities	0.797858
+3	probe design	Activities	135.696258
+3	message	Hypothesis Testing	912.300936
+3	message tool	Hypothesis Testing	1.068091
+3	probe launch	Activities	35.693648
+3	solar system	Cognitive Load	784.762481
+3	mission control	Hypothesis Testing	408.951671
+3	probe launch	Activities	17.604615
+3	mission control	Hypothesis Testing	322.789936
+3	probe design	Activities	0.391644
+3	mission control	Hypothesis Testing	31.498128
+3	probe design	Activities	188.605713
+3	probe launch	Activities	8.099081
+3	mission control	Hypothesis Testing	48.454998
+3	solar system	Cognitive Load	466.499018
+3	mission control	Hypothesis Testing	0.337716
+3	mission control	Hypothesis Testing	1025.380662
+3	solar system	Cognitive Load	634.059407
+3	mission control	Hypothesis Testing	0.221203
+3	mission control	Hypothesis Testing	0.469461
+3	alien database	Cognitive Load	29.936191
+3	alien database	Cognitive Load	3.325907
+3	alien database	Cognitive Load	1.309435
+3	alien database	Cognitive Load	1.463695
+3	solar system	Cognitive Load	914.507039
+3	solar system	Cognitive Load	283.96447
+3	alien database	Cognitive Load	2214.845667
+3	spectra	Cognitive Load	27.637562
+3	spectra	Cognitive Load	59.429636
+3	spectra	Cognitive Load	79.094258
+3	spectra	Cognitive Load	216.694829
+3	spectra	Cognitive Load	102.533912
+4	mission control	Hypothesis Testing	0.334198
+4	mission control	Hypothesis Testing	0.491725
+4	mission control	Hypothesis Testing	0.249463
+4	mission control	Hypothesis Testing	0.454256
+4	mission control	Hypothesis Testing	64.293111
+4	alien database	Cognitive Load	454.89567
+4	spectra	Cognitive Load	43.952016
+4	solar system	Cognitive Load	64.078605
+4	mission control	Hypothesis Testing	52.499383
+4	solar system	Cognitive Load	4.987979
+4	solar system	Cognitive Load	691.619345
+4	probe design	Activities	128.585303
+4	message	Hypothesis Testing	1493.503891
+4	probe launch	Activities	0.524906
+4	probe launch	Activities	24.99069
+4	mission control	Hypothesis Testing	45.457976
+4	solar system	Cognitive Load	341.353407
+4	alien database	Cognitive Load	1007.998894
+4	solar system	Cognitive Load	226.651602
+4	solar system	Cognitive Load	649.731478
+4	alien database	Cognitive Load	80.435848
+4	alien database	Cognitive Load	112.225323
+4	probe design	Activities	0.430456
+4	probe design	Activities	0.462543
+4	probe design	Activities	46.173133
+4	probe design	Activities	20.897448
+4	probe design	Activities	55.651159
+4	probe design	Activities	48.877573
+4	probe launch	Activities	13.515922
+4	mission control	Hypothesis Testing	103.406431
+4	solar system	Cognitive Load	201.137724
+4	alien database	Cognitive Load	427.787651
+4	solar system	Cognitive Load	45.335689
+4	solar system	Cognitive Load	46.423798
+4	solar system	Cognitive Load	7.753705
+1	mission control	Hypothesis Testing	2.22454
+1	mission control	Hypothesis Testing	2.131306
+1	alien database	Cognitive Load	46.430946
+1	periodic table	Cognitive Load	4.864588
+1	probe design	Activities	212.328324
+1	concepts	Cognitive Load	20.762116
+1	alien database	Cognitive Load	11.762943
+1	mission control	Hypothesis Testing	2.206817
+1	mission control	Hypothesis Testing	1.217625
+1	probe design	Activities	4.920697
+1	probe launch	Activities	4.326613
+1	message tool	Hypothesis Testing	55.505371
+1	message	Hypothesis Testing	1596.104488
+1	probe design	Activities	34.146448
+1	probe design	Activities	5.783259
+1	message	Hypothesis Testing	1471.067323
+1	message tool	Hypothesis Testing	0.256799
+1	message tool	Hypothesis Testing	1.500584
+1	message	Hypothesis Testing	1470.002358
+1	message	Hypothesis Testing	740.804426
+1	message tool	Hypothesis Testing	740.803123
+2	probe design	Activities	0.515367
+2	probe launch	Activities	2.134189
+2	alien database	Cognitive Load	242.656242
+2	probe launch	Activities	2.544852
+2	probe design	Activities	363.746444
+2	alien database	Cognitive Load	35.765186
+2	alien database	Cognitive Load	56.321639
+2	missions	Cognitive Load	5.912257
+2	spectra	Cognitive Load	6.791288
+2	periodic table	Cognitive Load	3.698511
+2	notebook	Cognitive Processing	6.583369
+2	probe launch	Activities	1.423494
+2	alien database	Cognitive Load	3.990592
+2	probe design	Activities	33.920728
+2	probe launch	Activities	2.294794
+2	mission control	Hypothesis Testing	3.461764
+2	probe launch	Activities	1.370182
+2	probe design	Activities	84.309845
+2	missions	Cognitive Load	2.863993
+2	alien database	Cognitive Load	78.929361
+2	missions	Cognitive Load	13.417593
+2	probe launch	Activities	2.386132
+2	mission control	Hypothesis Testing	4.569343
+2	probe design	Activities	109.851149
+2	probe design	Activities	84.582691
+2	probe launch	Activities	14.766432
+2	mission control	Hypothesis Testing	66.207955
+2	missions	Cognitive Load	3.492884
+2	mission control	Hypothesis Testing	81.350177
+2	alien database	Cognitive Load	450.882648
+2	solar system	Cognitive Load	1177.737952
+2	concepts	Cognitive Load	1083.693674
+2	periodic table	Cognitive Load	3.844984
+2	spectra	Cognitive Load	328.600535
+2	alien database	Cognitive Load	294.227418
+2	spectra	Cognitive Load	249.823018
+2	probe design	Activities	338.89907
+2	probe launch	Activities	13.662417
+2	probe launch	Activities	2.346613
+2	mission control	Hypothesis Testing	176.406401
+2	notebook	Cognitive Processing	26.56307
+2	missions	Cognitive Load	10.265975
+2	missions	Cognitive Load	18.409087
+2	mission control	Hypothesis Testing	13.901634
+2	concepts	Cognitive Load	10.744636
+2	concepts	Cognitive Load	4.5137
+2	periodic table	Cognitive Load	5.270906
+2	solar system	Cognitive Load	75.15136
+2	alien database	Cognitive Load	220.765797
+2	spectra	Cognitive Load	66.161402
+2	spectra	Cognitive Load	56.897765
+2	missions	Cognitive Load	1.988959
+2	alien database	Cognitive Load	638.595495
+2	mission control	Hypothesis Testing	0.658766
+2	mission control	Hypothesis Testing	73.315357
+2	alien database	Cognitive Load	310.860237
+2	spectra	Cognitive Load	27.028736
+2	spectra	Cognitive Load	39.984973
+2	probe design	Activities	0.303472
+2	probe design	Activities	74.25176
+2	probe design	Activities	122.94501
+2	probe launch	Activities	0.496163
+2	probe launch	Activities	11.56945
+2	mission control	Hypothesis Testing	107.566154
+2	mission control	Hypothesis Testing	84.453076
+2	mission control	Hypothesis Testing	85.519679
+2	message tool	Hypothesis Testing	1.754344
+2	message	Hypothesis Testing	122.060902
+2	probe design	Activities	26.42542
+2	solar system	Cognitive Load	3.083981
+2	alien database	Cognitive Load	1101.666763
+2	spectra	Cognitive Load	62.010783
+2	probe design	Activities	125.638974
+2	probe design	Activities	0.297641
+2	probe launch	Activities	7.547686
+2	probe launch	Activities	1.406531
+2	probe launch	Activities	1.126663
+2	mission control	Hypothesis Testing	243.092106
+2	mission control	Hypothesis Testing	5.667749
+2	notebook	Cognitive Processing	62.370153
+2	notebook	Cognitive Processing	71.74827
+2	message tool	Hypothesis Testing	0.213344
+2	message	Hypothesis Testing	1168.559823
+2	alien database	Cognitive Load	114.177251
+2	notebook	Cognitive Processing	42.726604
+2	message tool	Hypothesis Testing	0.410478
+2	message	Hypothesis Testing	918.890409
+2	message tool	Hypothesis Testing	507.657986
+2	message	Hypothesis Testing	908.347009
+2	notebook	Cognitive Processing	12.432371
+2	alien database	Cognitive Load	195.939897
+2	probe design	Activities	82.913912
+2	probe design	Activities	65.500493
+3	probe design	Activities	11.857562
+3	mission control	Hypothesis Testing	45.995469
+3	probe design	Activities	120.661409
+3	probe launch	Activities	8.232038
+3	mission control	Hypothesis Testing	128.040962
+3	alien database	Cognitive Load	464.157978
+3	solar system	Cognitive Load	421.678239
+3	probe design	Activities	53.388722
+3	solar system	Cognitive Load	4.506579
+3	solar system	Cognitive Load	497.163021
+3	solar system	Cognitive Load	89.1098
+3	mission control	Hypothesis Testing	1.151543
+3	alien database	Cognitive Load	162.406719
+3	alien database	Cognitive Load	8.34207
+3	notebook	Cognitive Processing	26.300094
+3	alien database	Cognitive Load	139.601017
+3	notebook	Cognitive Processing	26.284942
+3	alien database	Cognitive Load	278.955739
+3	notebook	Cognitive Processing	3.52454
+3	spectra	Cognitive Load	82.152004
+3	message tool	Hypothesis Testing	25.864002
+3	message	Hypothesis Testing	1072.547059
+3	message tool	Hypothesis Testing	0.942841
+3	message	Hypothesis Testing	1045.819117
+3	probe design	Activities	237.949628
+3	probe design	Activities	0.186018
+3	message tool	Hypothesis Testing	0.949986
+3	message	Hypothesis Testing	761.855942
+3	probe launch	Activities	0.454196
+3	probe launch	Activities	18.913018
+3	message tool	Hypothesis Testing	0.345514
+3	message	Hypothesis Testing	716.46524
+3	probe design	Activities	5.931175
+3	probe design	Activities	2.217944
+3	probe design	Activities	1.38394
+3	probe design	Activities	0.163276
+3	mission control	Hypothesis Testing	2.31253
+3	mission control	Hypothesis Testing	3.079488
+3	mission control	Hypothesis Testing	59.97709
+3	mission control	Hypothesis Testing	8.140756
+3	message tool	Hypothesis Testing	0.341918
+3	message	Hypothesis Testing	4.239202
+3	message	Hypothesis Testing	734.160257
+3	alien database	Cognitive Load	25.237768
+3	solar system	Cognitive Load	4.322399
+3	message	Hypothesis Testing	174.74846
+3	probe design	Activities	1.745853
+3	mission control	Hypothesis Testing	0.465426
+3	mission control	Hypothesis Testing	16.793493
+3	mission control	Hypothesis Testing	11.538463
+3	mission control	Hypothesis Testing	8.730701
+3	alien database	Cognitive Load	34.702285
+3	solar system	Cognitive Load	3.669284
+3	mission control	Hypothesis Testing	0.153823
+3	alien database	Cognitive Load	1627.452237
+3	spectra	Cognitive Load	12.050529
+3	alien database	Cognitive Load	440.485839
+3	alien database	Cognitive Load	309.240197
+3	alien database	Cognitive Load	85.090043
+4	mission control	Hypothesis Testing	91.343232
+4	probe design	Activities	125.394725
+4	message	Hypothesis Testing	2191.913169
+4	probe launch	Activities	0.808163
+4	probe launch	Activities	13.265614
+4	probe launch	Activities	3.28818
+4	mission control	Hypothesis Testing	0.78149
+4	mission control	Hypothesis Testing	135.335165
+4	notebook	Cognitive Processing	45.548337
+4	mission control	Hypothesis Testing	1.203805
+4	alien database	Cognitive Load	397.855641
+4	notebook	Cognitive Processing	3.982319
+4	periodic table	Cognitive Load	4.935852
+4	spectra	Cognitive Load	63.453485
+4	spectra	Cognitive Load	67.966888
+4	solar system	Cognitive Load	14.933059
+4	alien database	Cognitive Load	8.207325
+4	mission control	Hypothesis Testing	34.61918
+4	solar system	Cognitive Load	201.412378
+4	alien database	Cognitive Load	1257.441036
+4	solar system	Cognitive Load	416.848483
+4	spectra	Cognitive Load	90.797478
+4	solar system	Cognitive Load	201.48692
+4	solar system	Cognitive Load	333.93236
+4	solar system	Cognitive Load	77.080808
+4	solar system	Cognitive Load	40.227507
+4	alien database	Cognitive Load	523.048584
+4	solar system	Cognitive Load	93.795058
+4	solar system	Cognitive Load	62.325235
+4	solar system	Cognitive Load	4.95495
+4	spectra	Cognitive Load	67.328108
+4	probe launch	Activities	0.463588
+4	probe launch	Activities	0.496387
+4	probe launch	Activities	0.471478
+4	probe launch	Activities	3.652317
+4	probe design	Activities	56.708909
+4	probe launch	Activities	0.240348
+4	probe launch	Activities	0.777833
+4	probe launch	Activities	0.520925
+4	probe launch	Activities	14.398105
+4	mission control	Hypothesis Testing	644.838564
+4	spectra	Cognitive Load	623.567013
+4	periodic table	Cognitive Load	23.786258
+4	solar system	Cognitive Load	234.808784
+4	alien database	Cognitive Load	1040.186266
+4	spectra	Cognitive Load	25.749804
+4	solar system	Cognitive Load	133.073464
+4	alien database	Cognitive Load	576.996863
+4	solar system	Cognitive Load	345.927586
+4	spectra	Cognitive Load	35.863079
+4	solar system	Cognitive Load	12.367415
