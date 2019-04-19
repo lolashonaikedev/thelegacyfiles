@@ -1,0 +1,19 @@
+HEADERS = hw4_funcs.h
+
+default: hw4
+
+hw4.o: program.c $(HEADERS)
+    icc -o hw4.c -hw4.o
+
+hw4: program.o
+    icc hw4.o -o hw4
+
+hw4_funcs.o: program.c $(HEADERS)
+    icc -o hw4.c -hw4.o
+
+hw4funcs: program.o
+    icc hw4_funcs.o -o hw4
+
+clean:
+    -rm -f hw4.o
+    -rm -f hw4

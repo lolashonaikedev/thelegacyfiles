@@ -1,0 +1,6 @@
+set terminal png font 'arial,16'
+set output outfile
+set datafile separator " "
+set xrange [1:50]
+set yrange [1:100]
+plot filename  u 1:2 w lines

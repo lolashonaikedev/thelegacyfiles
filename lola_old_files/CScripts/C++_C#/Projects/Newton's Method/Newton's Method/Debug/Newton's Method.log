@@ -1,0 +1,26 @@
+﻿Build started 4/30/2015 8:44:25 PM.
+     1>Project "c:\Users\jagunjagun\documents\visual studio 2010\Projects\Newton's Method\Newton's Method\Newton's Method.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\jagunjagun\documents\visual studio 2010\Projects\Newton's Method\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\Newton's Method.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\Downloads\numal\program7.cpp
+         program7.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Newton's Method.exe.embed.manifest.res" "Debug\Newton's Method_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\jagunjagun\documents\visual studio 2010\Projects\Newton's Method\Debug\Newton's Method.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Newton's Method.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\jagunjagun\documents\visual studio 2010\Projects\Newton's Method\Debug\Newton's Method.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\jagunjagun\documents\visual studio 2010\Projects\Newton's Method\Debug\Newton's Method.lib" /MACHINE:X86 "Debug\Newton's Method.exe.embed.manifest.res"
+         Debug\program7.obj
+     1>program7.obj : error LNK2019: unresolved external symbol "public: double & __thiscall vector::operator()(int)" (??Rvector@@QAEAANH@Z) referenced in function "void __cdecl Feval(class vector &,class vector &)" (?Feval@@YAXAAVvector@@0@Z)
+     1>program7.obj : error LNK2019: unresolved external symbol "public: double & __thiscall matrix::operator()(int,int)" (??Rmatrix@@QAEAANHH@Z) referenced in function "void __cdecl DFeval(class vector &,class matrix &)" (?DFeval@@YAXAAVvector@@AAVmatrix@@@Z)
+     1>program7.obj : error LNK2019: unresolved external symbol "public: __thiscall vector::~vector(void)" (??1vector@@QAE@XZ) referenced in function _main
+     1>program7.obj : error LNK2019: unresolved external symbol "int __cdecl newton(class vector &,int,int,double)" (?newton@@YAHAAVvector@@HHN@Z) referenced in function _main
+     1>program7.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class vector const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVvector@@@Z) referenced in function _main
+     1>program7.obj : error LNK2019: unresolved external symbol "public: __thiscall vector::vector(int)" (??0vector@@QAE@H@Z) referenced in function _main
+     1>c:\users\jagunjagun\documents\visual studio 2010\Projects\Newton's Method\Debug\Newton's Method.exe : fatal error LNK1120: 6 unresolved externals
+     1>Done Building Project "c:\Users\jagunjagun\documents\visual studio 2010\Projects\Newton's Method\Newton's Method\Newton's Method.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.56

@@ -1,0 +1,17 @@
+﻿Build started 1/30/2015 11:30:36 AM.
+     1>Project "c:\Users\jagunjagun\documents\visual studio 2010\Projects\RelaxationHw2\RelaxationHw2\RelaxationHw2.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\jagunjagun\documents\visual studio 2010\Projects\RelaxationHw2\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\RelaxationHw2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\RelaxationHw2.exe.embed.manifest.res" Debug\RelaxationHw2_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\jagunjagun\documents\visual studio 2010\Projects\RelaxationHw2\Debug\RelaxationHw2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RelaxationHw2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\jagunjagun\documents\visual studio 2010\Projects\RelaxationHw2\Debug\RelaxationHw2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\jagunjagun\documents\visual studio 2010\Projects\RelaxationHw2\Debug\RelaxationHw2.lib" /MACHINE:X86 Debug\RelaxationHw2.exe.embed.manifest.res
+     1>LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+     1>c:\users\jagunjagun\documents\visual studio 2010\Projects\RelaxationHw2\Debug\RelaxationHw2.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "c:\Users\jagunjagun\documents\visual studio 2010\Projects\RelaxationHw2\RelaxationHw2\RelaxationHw2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.06
